@@ -67,8 +67,8 @@
       "field": "Life expectancy ",
       "type": "quantitative",
       "title": "Life expectancy",
-      "axis": {"tickCount": 5},
-      "scale": {"type": "linear", "domain": [1, 90]}
+      "axis": {"tickCount": 6},
+      "scale": {"type": "linear", "domain": [1, 100]}
     },
     "color": {"field": "Country", "type": "nominal"},
     "size": {
