@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Life expectancy (2000-2015)",
-  "width": 800,
+  "width": 700,
   "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/ne_110m%20(1).json",
