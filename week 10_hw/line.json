@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "title": "Countries life expectancy from 2000-2015",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/week%2010_hw/Life%20Expectancy%20Data.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.Country==='Malaysia'||datum.Country==='Singapore'||datum.Country==='Australia'||datum.Country==='United States of America'||datum.Country==='Brazil'||datum.Country==='China'||datum.Country==='Angola'||datum.Country==='Japan'||datum.Country==='Mali'"
+    }
+  ],
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal"},
+    "y": {"field": "Life expectancy ", "type": "quantitative"},
+    "color": {"field": "Country", "type": "nominal"}
+  },
+  "layer": [
+    {"mark": "line"},
+    {
+      "params": [
+        {
+          "name": "hover",
+          "select": {"type": "point", "on": "mouseover", "clear": "mouseout"}
+        }
+      ],
+      "mark": {"type": "circle", "tooltip": true},
+      "encoding": {
+        "opacity": {
+          "condition": {"test": {"param": "hover", "empty": false}, "value": 1},
+          "value": 0
+        },
+        "size": {
+          "condition": {
+            "test": {"param": "hover", "empty": false},
+            "value": 48
+          },
+          "value": 100
+        }
+      }
+    }
+  ],
+  "config": {}
+}
