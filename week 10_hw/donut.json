@@ -20,7 +20,7 @@
     }
   ],
   "transform": [{"filter": "datum.Year == Year"}],
-  "mark": {"type": "arc", "innerRadius": 50},
+  "mark": {"type": "arc", "innerRadius": 120},
   "encoding": {
     "theta": {"field": "Count", "type": "quantitative"},
     "color": {"field": "Status", "type": "nominal"}
