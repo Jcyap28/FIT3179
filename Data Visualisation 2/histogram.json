@@ -1,0 +1,27 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "title": "Histogram of world BMI",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/week%2010_hw/Life%20Expectancy%20Data.csv"
+  },
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {"field": " BMI ", "bin": true},
+        "y": {"aggregate": "count"}
+      }
+    },
+    {
+      "mark": "rule",
+      "encoding": {
+        "x": {"aggregate": "mean", "field": " BMI "},
+        "color": {"value": "red"},
+        "size": {"value": 5}
+      }
+    }
+  ],
+  "config": {}
+}

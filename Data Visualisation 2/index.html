@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Multiple Visualisations | An Example</title>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1>World life expectancy</h1>
+        <p>World life expectancy is a critical metric reflecting the average number of years an individual can expect to live, and it serves as an essential indicator of a population's overall health and well-being. As of my last knowledge update in September 2021, the global average life expectancy was approximately 72-73 years. This statistic is not uniform worldwide, exhibiting significant regional disparities influenced by various factors.</p>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h2>Life expectancy for each country from 2000-2015</h2>
+        <p> From the map idioms, we can see that Europe country has higher life expectancy. </p>
+      </div>
+    </div>
+    <div class="pure-u-1-1" style="width: 50%;">
+       <div id="vis1" class="vis-container" style="margin-right: 20px;"></div>
+    </div>
+    
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      
+      <div class="pure-u-1-5">
+        <div class="description description-right">
+          <h2>Does GDP and Life expectancy have any correlation?</h2>
+          <p>The bubble plot shows that they have a positive correlation.</p>
+        </div>
+      </div>
+      <div class="pure-u-2-3">
+        <div id="vis2" class="vis-container"></div>
+      </div>
+    </div>
+  <!-- pure grid group -->
+    <div class="pure-g">
+      
+      <div class="pure-u-1-5">
+        <div class="description description-right">
+          <h2>Country Status?</h2>
+          <p>From the donut chart, most of the country is still developing</p>
+        </div>
+      </div>
+      <div class="pure-u-2-3">
+        <div id="vis3" class="vis-container"></div>
+      </div>
+    </div>
+  <!-- pure grid group -->
+    <div class="pure-g">
+      
+      <div class="pure-u-1-5">
+        <div class="description description-right">
+          <h2>Life expectancy for 8 of the countries each year.</h2></h2>
+          <p>The average life expectancy is 70. From the line chart, there is 2 countries that have GDP lesser than the average which is Madi and Angola.</p>
+        </div>
+      </div>
+      <div class="pure-u-2-3">
+        <div id="vis4" class="vis-container"></div>
+      </div>
+    </div>
+    
+  <!-- pure grid group -->
+    <div class="pure-g">
+      
+      <div class="pure-u-1-5">
+        <div class="description description-right">
+          <h2>Historam of world BMI</h2>
+          <p>The highest range of BMI is 50-60.</p>
+        </div>
+      </div>
+      <div class="pure-u-2-3">
+        <div id="vis5" class="vis-container"></div>
+      </div>
+    </div>
+
+  <script type="text/javascript">
+    var specVis1 = "./scatter.json";
+    var specVis2 = "./Map for life expectancy.json";
+    var specVis3 = "./donut.json";
+    var specVis4 = "./line.json";
+    var specVis5 = "./histogram.json";
+
+    vegaEmbed('#vis1', specVis2, { "actions": false });
+    vegaEmbed('#vis3', specVis3, { "actions": false });
+    vegaEmbed('#vis4', specVis4, { "actions": false });
+    vegaEmbed('#vis5', specVis5, { "actions": false });
+    vegaEmbed('#vis2', specVis1, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+  </script>
+</body>
+
+</html>

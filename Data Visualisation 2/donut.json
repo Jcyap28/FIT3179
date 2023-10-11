@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "title": "Country status",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/week%2010_hw/developed_developing.csv"
+  },
+  "params": [
+    {
+      "name": "Year",
+      "value": 2015,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2015,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
+  "transform": [{"filter": "datum.Year == Year"}],
+  "mark": {"type": "arc", "innerRadius": 120},
+  "encoding": {
+    "theta": {"field": "Count", "type": "quantitative"},
+    "color": {"field": "Status", "type": "nominal"}
+  },
+  "config": {}
+}
