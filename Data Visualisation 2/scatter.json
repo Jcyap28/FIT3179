@@ -4,7 +4,7 @@
   "height": 400,
   "title": "Life expectancy based on GDP",
   "data": {
-    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Life%20Expectancy%20Data.csv"
+    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/Life%20Expectancy%20Data.csv"
   },
   "params": [
     {

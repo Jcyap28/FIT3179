@@ -4,7 +4,7 @@
   "height": 400,
   "title": "Country status",
   "data": {
-    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/week%2010_hw/developed_developing.csv"
+    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/developed_developing.csv"
   },
   "params": [
     {
