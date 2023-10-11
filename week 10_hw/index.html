@@ -89,17 +89,32 @@
         <div id="vis4" class="vis-container"></div>
       </div>
     </div>
-
+    
+  <!-- pure grid group -->
+    <div class="pure-g">
+      
+      <div class="pure-u-1-5">
+        <div class="description description-right">
+          <h2>Does GDP and Life expectancy have any correlation?</h2>
+          <p>The bubble plot shows that they have a positive correlation.</p>
+        </div>
+      </div>
+      <div class="pure-u-2-3">
+        <div id="vis5" class="vis-container"></div>
+      </div>
+    </div>
 
   <script type="text/javascript">
     var specVis1 = "./scatter.json";
     var specVis2 = "./Map for life expectancy.json";
     var specVis3 = "./donut.json";
     var specVis4 = "./line.json";
+    var specVis5 = "./histogram.json";
 
     vegaEmbed('#vis1', specVis2, { "actions": false });
     vegaEmbed('#vis3', specVis3, { "actions": false });
     vegaEmbed('#vis4', specVis4, { "actions": false });
+    vegaEmbed('#vis5', specVis5, { "actions": false });
     vegaEmbed('#vis2', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
