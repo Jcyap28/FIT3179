@@ -19,8 +19,12 @@
       "encoding": {
         "x": {"aggregate": "mean", "field": " BMI "},
         "color": {"value": "red"},
-        "size": {"value": 5}
+        "size": {"value": 3}
       }
+    },
+    {
+      "mark": {"type": "text", "dx": -15, "dy": -150, "fontSize": 15},
+      "encoding": {"text": {"value": "mean"},"color": {"value": "red"}}
     }
   ],
   "config": {}
