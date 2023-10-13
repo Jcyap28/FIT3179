@@ -1,0 +1,2939 @@
+"Country","Year","Life.expectancy","rank"
+"Belgium",2014,89,1
+"Finland",2014,89,2
+"France",2008,89,1
+"France",2007,89,1
+"Germany",2014,89,3
+"Italy",2004,89,1
+"New Zealand",2010,89,1
+"Norway",2009,89,1
+"Portugal",2014,89,4
+"Spain",2007,89,2
+"Sweden",2007,89,3
+"Austria",2012,88,1
+"Austria",2011,88,1
+"Greece",2014,88,5
+"Iceland",2004,88,2
+"Italy",2005,88,1
+"Luxembourg",2011,88,2
+"Netherlands",2010,88,2
+"Slovenia",2015,88,1
+"Spain",2006,88,1
+"Sweden",2006,88,2
+"Belgium",2013,87,1
+"Canada",2008,87,2
+"Finland",2013,87,2
+"Iceland",2003,87,1
+"Malta",2011,87,3
+"Singapore",2006,87,3
+"Slovenia",2014,87,6
+"South Korea",2010,87,3
+"United Kingdom",2013,87,3
+"Australia",2004,86,3
+"Denmark",2015,86,2
+"France",2006,86,4
+"Germany",2013,86,4
+"Germany",2012,86,2
+"Greece",2013,86,5
+"Ireland",2010,86,4
+"Luxembourg",2010,86,5
+"Netherlands",2009,86,2
+"New Zealand",2011,86,4
+"Norway",2008,86,3
+"Portugal",2013,86,6
+"South Korea",2009,86,3
+"United Kingdom",2012,86,3
+"United Kingdom",2011,86,5
+"Canada",2007,85,4
+"Canada",2006,85,5
+"Chile",2015,85,3
+"Cyprus",2015,85,4
+"Germany",2011,85,6
+"Greece",2011,85,7
+"Ireland",2012,85,4
+"New Zealand",2009,85,4
+"Norway",2007,85,5
+"Slovenia",2013,85,7
+"Sweden",2005,85,2
+"Switzerland",2003,85,2
+"Austria",2010,84,6
+"Austria",2008,84,4
+"Denmark",2014,84,7
+"Finland",2012,84,5
+"Greece",2012,84,6
+"Iceland",2002,84,1
+"Ireland",2011,84,8
+"Israel",2007,84,6
+"Israel",2006,84,6
+"Norway",2006,84,7
+"Switzerland",2002,84,2
+"Japan",2015,83.7,5
+"Japan",2014,83.5,8
+"Japan",2013,83.5,8
+"Switzerland",2015,83.4,6
+"Japan",2012,83.3,7
+"Switzerland",2014,83.2,9
+"Singapore",2015,83.1,7
+"Australia",2003,83,3
+"Belgium",2012,83,8
+"Belgium",2011,83,9
+"Chile",2014,83,10
+"Cyprus",2014,83,11
+"Finland",2011,83,10
+"Greece",2010,83,7
+"Japan",2010,83,8
+"Japan",2009,83,5
+"Luxembourg",2009,83,6
+"Malta",2010,83,9
+"Netherlands",2008,83,5
+"Portugal",2012,83,9
+"South Korea",2008,83,6
+"Sweden",2004,83,4
+"Switzerland",2013,83,9
+"Singapore",2014,82.9,12
+"Australia",2015,82.8,8
+"Spain",2015,82.8,9
+"Australia",2014,82.7,13
+"Iceland",2015,82.7,10
+"Italy",2015,82.7,11
+"Japan",2008,82.7,7
+"Singapore",2013,82.7,10
+"Switzerland",2012,82.7,10
+"Japan",2007,82.6,7
+"Spain",2014,82.6,14
+"Switzerland",2011,82.6,11
+"Australia",2013,82.5,11
+"Iceland",2014,82.5,15
+"Iceland",2012,82.5,11
+"Israel",2015,82.5,12
+"Italy",2014,82.5,16
+"Japan",2011,82.5,12
+"Singapore",2012,82.5,12
+"France",2015,82.4,13
+"Iceland",2013,82.4,12
+"Japan",2006,82.4,8
+"Spain",2013,82.4,13
+"Sweden",2015,82.4,14
+"Australia",2012,82.3,13
+"Italy",2013,82.3,14
+"South Korea",2015,82.3,15
+"Sweden",2014,82.3,17
+"Switzerland",2010,82.3,10
+"Canada",2015,82.2,16
+"France",2014,82.2,18
+"Israel",2014,82.2,19
+"Singapore",2011,82.2,13
+"Iceland",2011,82.1,14
+"Israel",2013,82.1,15
+"Japan",2004,82.1,5
+"Spain",2011,82.1,15
+"Switzerland",2009,82.1,7
+"Australia",2011,82,16
+"Austria",2009,82,8
+"Canada",2014,82,20
+"France",2013,82,16
+"France",2004,82,6
+"Italy",2012,82,14
+"Italy",2011,82,17
+"Japan",2005,82,3
+"Luxembourg",2015,82,17
+"Malta",2009,82,9
+"Netherlands",2007,82,8
+"Portugal",2011,82,18
+"Singapore",2010,82,11
+"Singapore",2005,82,4
+"Slovenia",2012,82,15
+"South Korea",2014,82,21
+"Spain",2012,82,16
+"Sweden",2003,82,4
+"Switzerland",2008,82,8
+"Switzerland",2001,82,1
+"United Kingdom",2010,82,12
+"Australia",2010,81.9,13
+"Japan",2003,81.9,5
+"Netherlands",2015,81.9,18
+"Spain",2010,81.9,14
+"Sweden",2013,81.9,17
+"Canada",2013,81.8,18
+"Iceland",2010,81.8,15
+"Israel",2012,81.8,17
+"Israel",2011,81.8,19
+"Italy",2010,81.8,16
+"Japan",2002,81.8,3
+"Norway",2015,81.8,19
+"Australia",2009,81.7,10
+"France",2011,81.7,20
+"Israel",2010,81.7,17
+"Luxembourg",2014,81.7,22
+"Malta",2015,81.7,20
+"Netherlands",2014,81.7,23
+"Singapore",2009,81.7,11
+"South Korea",2013,81.7,19
+"Sweden",2012,81.7,18
+"Sweden",2011,81.7,21
+"Switzerland",2007,81.7,9
+"Canada",2012,81.6,19
+"Iceland",2009,81.6,12
+"Italy",2009,81.6,13
+"New Zealand",2015,81.6,21
+"Norway",2014,81.6,24
+"Spain",2009,81.6,14
+"Austria",2015,81.5,22
+"Canada",2011,81.5,22
+"France",2012,81.5,20
+"Israel",2009,81.5,15
+"Italy",2008,81.5,9
+"Japan",2001,81.5,2
+"New Zealand",2014,81.5,25
+"Norway",2013,81.5,20
+"Sweden",2010,81.5,18
+"Switzerland",2006,81.5,9
+"Austria",2014,81.4,26
+"Iceland",2008,81.4,10
+"Ireland",2015,81.4,23
+"Luxembourg",2013,81.4,21
+"Malta",2014,81.4,27
+"Netherlands",2013,81.4,22
+"Singapore",2008,81.4,11
+"Sweden",2009,81.4,16
+"Australia",2008,81.3,12
+"Australia",2007,81.3,10
+"France",2010,81.3,19
+"Iceland",2007,81.3,11
+"Italy",2007,81.3,12
+"New Zealand",2013,81.3,23
+"Norway",2012,81.3,21
+"Spain",2008,81.3,13
+"Australia",2006,81.2,10
+"Canada",2010,81.2,20
+"Ireland",2014,81.2,28
+"Italy",2006,81.2,11
+"South Korea",2012,81.2,22
+"United Kingdom",2015,81.2,24
+"Austria",2013,81.1,24
+"Belgium",2015,81.1,25
+"Finland",2015,81.1,26
+"France",2009,81.1,17
+"Iceland",2006,81.1,12
+"Japan",2000,81.1,1
+"Luxembourg",2012,81.1,23
+"Malta",2013,81.1,25
+"Netherlands",2012,81.1,24
+"Netherlands",2011,81.1,23
+"New Zealand",2012,81.1,25
+"Norway",2011,81.1,24
+"Portugal",2015,81.1,27
+"Singapore",2007,81.1,13
+"South Korea",2011,81.1,25
+"Sweden",2008,81.1,14
+"Switzerland",2005,81.1,5
+"Australia",2005,81,6
+"Austria",2007,81,14
+"Canada",2009,81,18
+"Canada",2005,81,7
+"Chile",2013,81,26
+"Cyprus",2013,81,27
+"Denmark",2013,81,28
+"France",2005,81,8
+"Germany",2015,81,28
+"Germany",2010,81,21
+"Greece",2015,81,29
+"Iceland",2005,81,9
+"Ireland",2013,81,29
+"Israel",2008,81,15
+"Israel",2004,81,7
+"Malta",2012,81,26
+"New Zealand",2008,81,16
+"New Zealand",2007,81,15
+"Norway",2010,81,22
+"Norway",2005,81,10
+"Spain",2005,81,11
+"Spain",2004,81,8
+"Switzerland",2004,81,9
+"United Kingdom",2014,81,29
+"United Kingdom",2009,81,19
+"Belgium",2010,80,23
+"Canada",2004,80,10
+"Cyprus",2012,80,27
+"Denmark",2012,80,28
+"Germany",2009,80,20
+"Greece",2009,80,21
+"Iceland",2001,80,3
+"Israel",2005,80,12
+"Italy",2002,80,4
+"Luxembourg",2008,80,17
+"Malta",2008,80,18
+"Australia",2002,79.9,5
+"Australia",2001,79.9,4
+"Chile",2012,79.9,29
+"Finland",2010,79.9,24
+"Germany",2008,79.9,19
+"Greece",2008,79.9,20
+"Italy",2003,79.9,6
+"New Zealand",2006,79.9,13
+"New Zealand",2005,79.9,13
+"Sweden",2002,79.9,6
+"Austria",2006,79.8,14
+"Belgium",2009,79.8,22
+"Chile",2011,79.8,26
+"Germany",2007,79.8,16
+"Ireland",2008,79.8,21
+"Italy",2001,79.8,5
+"Netherlands",2006,79.8,15
+"Norway",2004,79.8,11
+"Slovenia",2011,79.8,27
+"South Korea",2007,79.8,17
+"Sweden",2001,79.8,6
+"Canada",2003,79.7,7
+"Cyprus",2011,79.7,28
+"Denmark",2011,79.7,29
+"Finland",2009,79.7,23
+"Greece",2006,79.7,16
+"Iceland",2000,79.7,2
+"Ireland",2009,79.7,24
+"Israel",2003,79.7,8
+"Luxembourg",2007,79.7,18
+"Singapore",2004,79.7,12
+"Switzerland",2000,79.7,3
+"Chile",2008,79.6,22
+"Costa Rica",2015,79.6,30
+"Finland",2008,79.6,23
+"Germany",2006,79.6,17
+"Malta",2007,79.6,19
+"Portugal",2010,79.6,25
+"Sweden",2000,79.6,4
+"United Kingdom",2008,79.6,24
+"Australia",2000,79.5,5
+"Belgium",2008,79.5,25
+"Belgium",2007,79.5,20
+"Canada",2002,79.5,7
+"Costa Rica",2014,79.5,30
+"Cyprus",2010,79.5,26
+"Ireland",2007,79.5,21
+"Slovenia",2010,79.5,27
+"Spain",2002,79.5,8
+"United Kingdom",2007,79.5,22
+"Austria",2005,79.4,14
+"Belgium",2006,79.4,18
+"Canada",2001,79.4,7
+"Costa Rica",2013,79.4,30
+"Greece",2007,79.4,23
+"Italy",2000,79.4,6
+"Luxembourg",2006,79.4,19
+"Netherlands",2005,79.4,15
+"Norway",2003,79.4,9
+"South Korea",2006,79.4,20
+"Spain",2003,79.4,10
+"Spain",2001,79.4,8
+"Austria",2004,79.3,13
+"Chile",2009,79.3,25
+"Cyprus",2009,79.3,26
+"Finland",2007,79.3,24
+"France",2003,79.3,11
+"Greece",2005,79.3,16
+"Israel",2002,79.3,9
+"Israel",2001,79.3,9
+"Malta",2006,79.3,21
+"Portugal",2009,79.3,27
+"Singapore",2003,79.3,12
+"United Kingdom",2006,79.3,22
+"United States of America",2015,79.3,31
+"Costa Rica",2012,79.2,30
+"Costa Rica",2009,79.2,28
+"Denmark",2010,79.2,28
+"Finland",2006,79.2,23
+"France",2002,79.2,10
+"Germany",2005,79.2,17
+"Greece",2004,79.2,14
+"Netherlands",2004,79.2,15
+"New Zealand",2004,79.2,16
+"Canada",2000,79.1,7
+"Chile",2010,79.1,29
+"Cuba",2015,79.1,32
+"Cyprus",2008,79.1,26
+"Germany",2004,79.1,17
+"Greece",2003,79.1,13
+"New Zealand",2003,79.1,14
+"Slovenia",2009,79.1,29
+"Spain",2000,79.1,8
+"United States of America",2014,79.1,31
+"Costa Rica",2011,79,30
+"Cuba",2014,79,32
+"Egypt",2015,79,33
+"Egypt",2013,79,31
+"France",2001,79,10
+"Greece",2002,79,11
+"Grenada",2002,79,12
+"Guatemala",2008,79,27
+"Ireland",2006,79,24
+"Malta",2005,79,18
+"Paraguay",2000,79,9
+"Portugal",2008,79,28
+"Republic of Moldova",2012,79,31
+"Saint Vincent and the Grenadines",2002,79,13
+"Saint Vincent and the Grenadines",2001,79,11
+"Saint Vincent and the Grenadines",2000,79,10
+"Samoa",2003,79,15
+"Singapore",2002,79,14
+"United Kingdom",2005,79,19
+"Belgium",2005,78.9,20
+"Chile",2007,78.9,25
+"Chile",2006,78.9,25
+"Costa Rica",2008,78.9,29
+"Costa Rica",2007,78.9,26
+"Cyprus",2007,78.9,27
+"Denmark",2009,78.9,30
+"Finland",2005,78.9,21
+"Israel",2000,78.9,11
+"Norway",2002,78.9,15
+"Slovenia",2008,78.9,30
+"United States of America",2013,78.9,32
+"Austria",2003,78.8,16
+"Belgium",2004,78.8,18
+"Cuba",2011,78.8,31
+"Cyprus",2006,78.8,26
+"Czechia",2015,78.8,34
+"Denmark",2008,78.8,31
+"France",2000,78.8,12
+"Luxembourg",2005,78.8,22
+"Norway",2001,78.8,12
+"United Kingdom",2004,78.8,19
+"United States of America",2012,78.8,32
+"Austria",2002,78.7,16
+"Cuba",2013,78.7,33
+"Cuba",2012,78.7,33
+"Cyprus",2005,78.7,23
+"Finland",2004,78.7,20
+"Greece",2001,78.7,13
+"Ireland",2005,78.7,24
+"Luxembourg",2004,78.7,21
+"Malta",2004,78.7,22
+"Netherlands",2003,78.7,17
+"New Zealand",2002,78.7,17
+"Portugal",2007,78.7,28
+"Singapore",2001,78.7,14
+"South Korea",2005,78.7,25
+"United States of America",2011,78.7,32
+"United States of America",2010,78.7,30
+"Austria",2001,78.6,15
+"Costa Rica",2005,78.6,26
+"Cyprus",2004,78.6,23
+"Czechia",2014,78.6,33
+"Luxembourg",2003,78.6,18
+"New Zealand",2000,78.6,13
+"Cyprus",2003,78.5,19
+"Germany",2003,78.5,20
+"Maldives",2015,78.5,35
+"Malta",2003,78.5,21
+"New Zealand",2001,78.5,16
+"Norway",2000,78.5,14
+"Portugal",2006,78.5,27
+"United States of America",2009,78.5,31
+"Chile",2005,78.4,27
+"Cyprus",2002,78.4,18
+"Denmark",2007,78.4,29
+"Finland",2003,78.4,22
+"Germany",2002,78.4,19
+"Netherlands",2002,78.4,20
+"Belgium",2003,78.3,23
+"Brunei Darussalam",2012,78.3,34
+"Costa Rica",2002,78.3,21
+"Germany",2001,78.3,17
+"Ireland",2004,78.3,24
+"Luxembourg",2002,78.3,22
+"Netherlands",2001,78.3,18
+"Singapore",2000,78.3,15
+"Slovenia",2007,78.3,30
+"United Kingdom",2003,78.3,24
+"Cyprus",2001,78.2,19
+"Czechia",2013,78.2,34
+"Greece",2000,78.2,16
+"Maldives",2014,78.2,34
+"Malta",2002,78.2,23
+"Qatar",2015,78.2,36
+"South Korea",2004,78.2,25
+"United Kingdom",2002,78.2,24
+"United States of America",2008,78.2,32
+"Austria",2000,78.1,17
+"Costa Rica",2010,78.1,31
+"Cuba",2009,78.1,32
+"Cuba",2007,78.1,31
+"Cyprus",2000,78.1,18
+"Denmark",2006,78.1,28
+"Denmark",2005,78.1,28
+"Finland",2002,78.1,25
+"Netherlands",2000,78.1,19
+"Qatar",2014,78.1,35
+"Slovenia",2006,78.1,29
+"United States of America",2007,78.1,32
+"Azerbaijan",2009,78,33
+"Belgium",2002,78,26
+"Belgium",2001,78,20
+"Chile",2004,78,26
+"Costa Rica",2006,78,30
+"Costa Rica",2003,78,25
+"Croatia",2015,78,37
+"Cuba",2010,78,32
+"Cuba",2006,78,31
+"Czechia",2012,78,35
+"Egypt",2014,78,36
+"Estonia",2001,78,21
+"Estonia",2000,78,20
+"Finland",2001,78,22
+"Germany",2000,78,21
+"Iran",2001,78,23
+"Ireland",2003,78,26
+"Kyrgyzstan",2014,78,37
+"Latvia",2007,78,33
+"Latvia",2003,78,27
+"Libya",2000,78,22
+"Lithuania",2005,78,29
+"Luxembourg",2001,78,24
+"Maldives",2001,78,25
+"Portugal",2004,78,27
+"Romania",2001,78,26
+"Trinidad and Tobago",2012,78,36
+"Turkey",2001,78,27
+"Ukraine",2014,78,38
+"United Kingdom",2001,78,28
+"Vanuatu",2009,78,34
+"Chile",2003,77.9,28
+"Cuba",2008,77.9,33
+"Maldives",2013,77.9,35
+"Qatar",2013,77.9,36
+"Albania",2015,77.8,38
+"Chile",2002,77.8,27
+"Croatia",2014,77.8,39
+"Czechia",2011,77.8,33
+"Luxembourg",2000,77.8,23
+"Malta",2001,77.8,29
+"Panama",2015,77.8,39
+"Qatar",2012,77.8,37
+"United Kingdom",2000,77.8,24
+"United States of America",2006,77.8,32
+"Brunei Darussalam",2015,77.7,40
+"Costa Rica",2004,77.7,28
+"Croatia",2013,77.7,37
+"Cuba",2002,77.7,28
+"Denmark",2004,77.7,29
+"Portugal",2005,77.7,30
+"Belgium",2000,77.6,25
+"Brunei Darussalam",2014,77.6,40
+"Costa Rica",2000,77.6,26
+"Estonia",2015,77.6,41
+"Maldives",2012,77.6,38
+"Panama",2014,77.6,41
+"South Korea",2003,77.6,29
+"Albania",2014,77.5,42
+"Costa Rica",2001,77.5,30
+"Czechia",2010,77.5,33
+"Finland",2000,77.5,27
+"Malta",2000,77.5,28
+"Panama",2013,77.5,38
+"Poland",2015,77.5,42
+"Qatar",2011,77.5,34
+"Slovenia",2005,77.5,31
+"United States of America",2005,77.5,32
+"United States of America",2004,77.5,30
+"Bosnia and Herzegovina",2015,77.4,43
+"Brunei Darussalam",2011,77.4,35
+"Cuba",2003,77.4,30
+"Ireland",2002,77.4,29
+"Chile",2001,77.3,31
+"Chile",2000,77.3,29
+"Cuba",2004,77.3,31
+"Denmark",2003,77.3,31
+"Estonia",2014,77.3,43
+"Maldives",2011,77.3,36
+"Panama",2011,77.3,37
+"Poland",2014,77.3,44
+"Portugal",2003,77.3,32
+"Qatar",2010,77.3,34
+"Albania",2013,77.2,39
+"Bosnia and Herzegovina",2014,77.2,45
+"Brunei Darussalam",2008,77.2,34
+"Cuba",2005,77.2,33
+"Panama",2012,77.2,39
+"Portugal",2002,77.2,30
+"Slovenia",2004,77.2,32
+"United States of America",2003,77.2,33
+"Brunei Darussalam",2013,77.1,40
+"Croatia",2012,77.1,40
+"Czechia",2009,77.1,35
+"Poland",2013,77.1,41
+"South Korea",2002,77.1,31
+"United Arab Emirates",2015,77.1,44
+"Bangladesh",2012,77,41
+"Bolivia ",2015,77,45
+"Bosnia and Herzegovina",2013,77,42
+"Cabo Verde",2002,77,32
+"Croatia",2011,77,38
+"Czechia",2008,77,35
+"Denmark",2002,77,33
+"Denmark",2001,77,32
+"Grenada",2001,77,33
+"Guatemala",2010,77,35
+"Iraq",2011,77,39
+"Ireland",2001,77,34
+"Kyrgyzstan",2013,77,43
+"Morocco",2005,77,34
+"Qatar",2009,77,36
+"Republic of Moldova",2011,77,40
+"Romania",2002,77,34
+"Romania",2000,77,30
+"Ukraine",2012,77,42
+"United States of America",2002,77,35
+"Uruguay",2015,77,46
+"Uruguay",2011,77,41
+"Albania",2012,76.9,43
+"Bahrain",2015,76.9,47
+"Bosnia and Herzegovina",2011,76.9,42
+"Brunei Darussalam",2010,76.9,36
+"Cuba",2000,76.9,31
+"Denmark",2000,76.9,32
+"Estonia",2013,76.9,44
+"Portugal",2001,76.9,35
+"United Arab Emirates",2014,76.9,46
+"United States of America",2001,76.9,36
+"Bahrain",2014,76.8,47
+"Bosnia and Herzegovina",2012,76.8,44
+"Brunei Darussalam",2009,76.8,37
+"Czechia",2007,76.8,34
+"Panama",2009,76.8,38
+"Poland",2012,76.8,45
+"Qatar",2008,76.8,36
+"United States of America",2000,76.8,33
+"Uruguay",2014,76.8,48
+"Uruguay",2013,76.8,45
+"Bahrain",2013,76.7,46
+"Cuba",2001,76.7,37
+"Maldives",2010,76.7,37
+"Mexico",2015,76.7,48
+"Poland",2011,76.7,43
+"Qatar",2007,76.7,35
+"Slovakia",2015,76.7,49
+"South Korea",2001,76.7,38
+"United Arab Emirates",2013,76.7,47
+"Albania",2011,76.6,44
+"Croatia",2010,76.6,38
+"Mexico",2014,76.6,49
+"Mexico",2013,76.6,48
+"Oman",2015,76.6,50
+"Portugal",2000,76.6,34
+"Qatar",2006,76.6,33
+"Qatar",2005,76.6,35
+"Qatar",2004,76.6,33
+"Slovenia",2002,76.6,36
+"Uruguay",2009,76.6,39
+"Bahrain",2012,76.5,46
+"Czechia",2006,76.5,34
+"Panama",2010,76.5,39
+"Panama",2008,76.5,37
+"Qatar",2003,76.5,34
+"Slovenia",2003,76.5,35
+"United Arab Emirates",2012,76.5,47
+"Uruguay",2012,76.5,48
+"Antigua and Barbuda",2015,76.4,51
+"Bosnia and Herzegovina",2010,76.4,40
+"Brunei Darussalam",2004,76.4,34
+"Ireland",2000,76.4,35
+"Oman",2014,76.4,50
+"Panama",2007,76.4,36
+"Qatar",2002,76.4,37
+"Slovakia",2014,76.4,51
+"Uruguay",2008,76.4,38
+"Argentina",2015,76.3,52
+"Brunei Darussalam",2006,76.3,35
+"Croatia",2009,76.3,40
+"Estonia",2012,76.3,49
+"Maldives",2009,76.3,41
+"Mexico",2012,76.3,50
+"Poland",2010,76.3,41
+"Qatar",2001,76.3,39
+"United Arab Emirates",2011,76.3,45
+"Uruguay",2010,76.3,42
+"Albania",2010,76.2,43
+"Antigua and Barbuda",2014,76.2,52
+"Argentina",2014,76.2,53
+"Brunei Darussalam",2005,76.2,36
+"Ecuador",2015,76.2,53
+"Jamaica",2015,76.2,54
+"Oman",2013,76.2,49
+"Panama",2006,76.2,36
+"Qatar",2000,76.2,36
+"Slovenia",2001,76.2,40
+"United Arab Emirates",2010,76.2,44
+"Uruguay",2006,76.2,37
+"Albania",2009,76.1,42
+"Antigua and Barbuda",2013,76.1,50
+"Bahamas",2015,76.1,55
+"Bahrain",2011,76.1,46
+"Bahrain",2010,76.1,45
+"Bosnia and Herzegovina",2009,76.1,43
+"China",2015,76.1,56
+"Estonia",2011,76.1,47
+"Mexico",2011,76.1,48
+"Montenegro",2015,76.1,57
+"Slovakia",2013,76.1,51
+"Argentina",2013,76,52
+"Bahrain",2009,76,44
+"Bosnia and Herzegovina",2008,76,39
+"Brunei Darussalam",2007,76,37
+"Brunei Darussalam",2003,76,36
+"Croatia",2008,76,40
+"Ecuador",2014,76,54
+"Ecuador",2013,76,53
+"Guatemala",2009,76,45
+"Iraq",2012,76,51
+"Iraq",2010,76,46
+"Latvia",2005,76,37
+"Lithuania",2006,76,38
+"Mexico",2007,76,38
+"Nicaragua",2003,76,37
+"North Korea",2015,76,58
+"Oman",2012,76,52
+"Samoa",2009,76,46
+"Samoa",2002,76,38
+"Slovenia",2000,76,37
+"South Korea",2000,76,38
+"Suriname",2011,76,49
+"Trinidad and Tobago",2011,76,50
+"United Arab Emirates",2009,76,47
+"Vietnam",2015,76,59
+"Albania",2007,75.9,39
+"Antigua and Barbuda",2012,75.9,53
+"Argentina",2012,75.9,54
+"Croatia",2006,75.9,39
+"Czechia",2005,75.9,38
+"Maldives",2008,75.9,41
+"Montenegro",2014,75.9,55
+"Vietnam",2014,75.9,56
+"Bahrain",2008,75.8,42
+"China",2014,75.8,57
+"Croatia",2007,75.8,40
+"Czechia",2004,75.8,35
+"Hungary",2015,75.8,60
+"Jamaica",2014,75.8,58
+"Mexico",2006,75.8,40
+"Montenegro",2013,75.8,54
+"Oman",2011,75.8,51
+"Panama",2005,75.8,39
+"Panama",2004,75.8,36
+"Slovakia",2012,75.8,55
+"Turkey",2015,75.8,61
+"United Arab Emirates",2008,75.8,43
+"Antigua and Barbuda",2011,75.7,52
+"Argentina",2011,75.7,53
+"Bosnia and Herzegovina",2006,75.7,41
+"Mexico",2009,75.7,48
+"Panama",2002,75.7,39
+"Panama",2000,75.7,39
+"Poland",2009,75.7,49
+"The former Yugoslav republic of Macedonia",2015,75.7,62
+"Uruguay",2005,75.7,40
+"Vietnam",2013,75.7,55
+"Algeria",2015,75.6,63
+"Antigua and Barbuda",2010,75.6,47
+"Argentina",2009,75.6,50
+"Bahrain",2007,75.6,41
+"China",2013,75.6,56
+"Estonia",2010,75.6,48
+"Hungary",2014,75.6,59
+"Jamaica",2013,75.6,57
+"Mexico",2010,75.6,49
+"Mexico",2008,75.6,44
+"Montenegro",2012,75.6,56
+"Oman",2010,75.6,50
+"Serbia",2015,75.6,64
+"Slovakia",2011,75.6,54
+"United Arab Emirates",2007,75.6,42
+"Vietnam",2012,75.6,57
+"Argentina",2010,75.5,51
+"Bahrain",2006,75.5,42
+"Barbados",2015,75.5,65
+"Bosnia and Herzegovina",2004,75.5,37
+"Ecuador",2012,75.5,58
+"Hungary",2013,75.5,58
+"Iran",2015,75.5,66
+"Panama",2003,75.5,38
+"Panama",2001,75.5,41
+"Peru",2015,75.5,67
+"Poland",2008,75.5,45
+"The former Yugoslav republic of Macedonia",2014,75.5,60
+"Turkey",2014,75.5,61
+"Algeria",2014,75.4,62
+"Antigua and Barbuda",2009,75.4,51
+"Argentina",2008,75.4,46
+"Bahamas",2014,75.4,63
+"Barbados",2014,75.4,64
+"Bosnia and Herzegovina",2007,75.4,43
+"Bosnia and Herzegovina",2002,75.4,40
+"China",2012,75.4,59
+"Croatia",2004,75.4,38
+"Iran",2014,75.4,65
+"Maldives",2007,75.4,44
+"Mexico",2004,75.4,39
+"Montenegro",2011,75.4,55
+"Oman",2009,75.4,52
+"Serbia",2014,75.4,66
+"United Arab Emirates",2006,75.4,43
+"Uruguay",2007,75.4,45
+"Uruguay",2004,75.4,40
+"Uruguay",2003,75.4,39
+"Uruguay",2002,75.4,41
+"Vietnam",2011,75.4,56
+"Albania",2008,75.3,47
+"Algeria",2013,75.3,59
+"Bahrain",2005,75.3,41
+"Czechia",2002,75.3,42
+"Ecuador",2011,75.3,57
+"Iran",2013,75.3,60
+"Jamaica",2012,75.3,60
+"Mexico",2005,75.3,42
+"Montenegro",2010,75.3,52
+"Peru",2014,75.3,67
+"Peru",2013,75.3,61
+"Poland",2007,75.3,46
+"Serbia",2013,75.3,62
+"The former Yugoslav republic of Macedonia",2013,75.3,63
+"Tunisia",2015,75.3,68
+"United Arab Emirates",2005,75.3,43
+"Antigua and Barbuda",2008,75.2,48
+"Argentina",2006,75.2,44
+"Bahrain",2004,75.2,41
+"Barbados",2013,75.2,64
+"Bosnia and Herzegovina",2003,75.2,40
+"China",2011,75.2,58
+"Croatia",2005,75.2,44
+"Czechia",2003,75.2,41
+"Jamaica",2011,75.2,59
+"Oman",2008,75.2,49
+"Poland",2006,75.2,45
+"Saint Lucia",2015,75.2,69
+"Turkey",2013,75.2,65
+"Uruguay",2001,75.2,42
+"Vietnam",2010,75.2,53
+"Algeria",2012,75.1,61
+"Barbados",2012,75.1,62
+"Czechia",2001,75.1,43
+"Ecuador",2009,75.1,53
+"Iran",2012,75.1,63
+"Slovakia",2010,75.1,54
+"The former Yugoslav republic of Macedonia",2012,75.1,64
+"Tunisia",2014,75.1,68
+"United Arab Emirates",2004,75.1,42
+"Uruguay",2000,75.1,40
+"Antigua and Barbuda",2007,75,47
+"Bahamas",2011,75,60
+"Bahamas",2010,75,55
+"Bahrain",2003,75,42
+"Bosnia and Herzegovina",2005,75,45
+"Brazil",2015,75,70
+"Brazil",2000,75,41
+"China",2010,75,56
+"Ecuador",2010,75,57
+"El Salvador",2006,75,46
+"Guatemala",2007,75,48
+"Hungary",2012,75,65
+"Iran",2003,75,43
+"Jamaica",2010,75,58
+"Latvia",2006,75,47
+"Lebanon",2012,75,66
+"Lebanon",2011,75,61
+"Malaysia",2015,75,71
+"Maldives",2006,75,48
+"Mexico",2003,75,44
+"Mexico",2002,75,43
+"Mexico",2001,75,44
+"Montenegro",2009,75,54
+"Nicaragua",2002,75,44
+"Poland",2005,75,46
+"Romania",2015,75,72
+"Russia",2015,75,73
+"Saint Lucia",2014,75,69
+"Samoa",2001,75,45
+"Slovakia",2009,75,55
+"Ukraine",2011,75,62
+"Vanuatu",2008,75,50
+"Vietnam",2009,75,56
+"Algeria",2011,74.9,63
+"Argentina",2005,74.9,47
+"Bahamas",2012,74.9,67
+"Bahrain",2002,74.9,45
+"Barbados",2011,74.9,64
+"Bosnia and Herzegovina",2001,74.9,46
+"China",2009,74.9,57
+"Croatia",2001,74.9,47
+"Estonia",2009,74.9,58
+"Lebanon",2015,74.9,74
+"Lebanon",2013,74.9,66
+"Lebanon",2010,74.9,59
+"Oman",2007,74.9,49
+"Peru",2012,74.9,68
+"Poland",2004,74.9,43
+"Serbia",2012,74.9,69
+"Sri Lanka",2015,74.9,75
+"Thailand",2015,74.9,76
+"The former Yugoslav republic of Macedonia",2011,74.9,65
+"Tunisia",2013,74.9,67
+"Tunisia",2012,74.9,70
+"United Arab Emirates",2003,74.9,45
+"Vietnam",2008,74.9,51
+"Antigua and Barbuda",2006,74.8,49
+"Argentina",2007,74.8,50
+"Armenia",2015,74.8,77
+"Bahamas",2013,74.8,68
+"Brazil",2014,74.8,70
+"Brunei Darussalam",2002,74.8,46
+"Colombia",2015,74.8,78
+"Croatia",2002,74.8,47
+"Hungary",2011,74.8,66
+"Lebanon",2014,74.8,71
+"Malaysia",2014,74.8,72
+"Mexico",2000,74.8,42
+"Nicaragua",2015,74.8,79
+"Romania",2014,74.8,73
+"Saint Lucia",2013,74.8,69
+"Tunisia",2011,74.8,67
+"Tunisia",2010,74.8,60
+"Turkey",2012,74.8,71
+"Algeria",2010,74.7,61
+"Argentina",2004,74.7,44
+"Bahrain",2001,74.7,48
+"Barbados",2010,74.7,62
+"Brazil",2013,74.7,70
+"Brunei Darussalam",2001,74.7,49
+"Croatia",2003,74.7,46
+"Croatia",2000,74.7,43
+"Czechia",2000,74.7,44
+"Ecuador",2007,74.7,51
+"Iran",2011,74.7,68
+"Jamaica",2009,74.7,59
+"Kuwait",2015,74.7,80
+"Lebanon",2009,74.7,60
+"Oman",2006,74.7,50
+"Poland",2003,74.7,47
+"Saint Lucia",2012,74.7,72
+"Slovakia",2008,74.7,52
+"Sri Lanka",2014,74.7,74
+"The former Yugoslav republic of Macedonia",2010,74.7,63
+"Tunisia",2009,74.7,61
+"Tunisia",2008,74.7,53
+"United Arab Emirates",2002,74.7,48
+"Vietnam",2007,74.7,52
+"Antigua and Barbuda",2005,74.6,48
+"Armenia",2014,74.6,75
+"Bahamas",2009,74.6,62
+"Barbados",2009,74.6,63
+"Bosnia and Herzegovina",2000,74.6,45
+"Colombia",2014,74.6,76
+"Ecuador",2008,74.6,54
+"Honduras",2015,74.6,81
+"Kuwait",2014,74.6,77
+"Latvia",2015,74.6,82
+"Malaysia",2013,74.6,71
+"Mauritius",2015,74.6,83
+"Montenegro",2008,74.6,55
+"Romania",2013,74.6,72
+"Saint Lucia",2011,74.6,69
+"Serbia",2011,74.6,70
+"Sri Lanka",2013,74.6,73
+"Thailand",2014,74.6,78
+"Tunisia",2007,74.6,53
+"Vietnam",2006,74.6,51
+"Bahamas",2008,74.5,56
+"Bahrain",2000,74.5,46
+"Brazil",2012,74.5,73
+"Bulgaria",2015,74.5,84
+"China",2008,74.5,57
+"Georgia",2014,74.5,79
+"Georgia",2013,74.5,74
+"Honduras",2014,74.5,80
+"Hungary",2010,74.5,64
+"Jamaica",2008,74.5,58
+"Kuwait",2013,74.5,75
+"Lebanon",2008,74.5,59
+"Malaysia",2012,74.5,74
+"Nicaragua",2014,74.5,81
+"Nicaragua",2011,74.5,71
+"Peru",2011,74.5,72
+"Poland",2002,74.5,49
+"Saudi Arabia",2015,74.5,85
+"Sri Lanka",2012,74.5,75
+"Sri Lanka",2011,74.5,73
+"Sri Lanka",2010,74.5,65
+"Thailand",2013,74.5,76
+"Turkey",2011,74.5,74
+"United Arab Emirates",2001,74.5,50
+"Algeria",2009,74.4,64
+"Antigua and Barbuda",2004,74.4,45
+"Armenia",2013,74.4,77
+"Armenia",2012,74.4,76
+"Bahamas",2007,74.4,54
+"Barbados",2008,74.4,60
+"Brunei Darussalam",2000,74.4,47
+"China",2007,74.4,55
+"Colombia",2013,74.4,78
+"Ecuador",2006,74.4,52
+"Ecuador",2004,74.4,46
+"Ecuador",2003,74.4,48
+"Georgia",2015,74.4,86
+"Georgia",2007,74.4,56
+"Latvia",2014,74.4,82
+"Lebanon",2007,74.4,57
+"Romania",2012,74.4,77
+"Saudi Arabia",2014,74.4,83
+"Serbia",2010,74.4,66
+"Slovakia",2007,74.4,58
+"The former Yugoslav republic of Macedonia",2009,74.4,65
+"Tunisia",2006,74.4,53
+"Vietnam",2005,74.4,49
+"Bulgaria",2014,74.3,84
+"Colombia",2012,74.3,78
+"Honduras",2013,74.3,79
+"Kuwait",2012,74.3,79
+"Malaysia",2011,74.3,75
+"Maldives",2005,74.3,50
+"Morocco",2015,74.3,87
+"Oman",2005,74.3,51
+"Romania",2011,74.3,76
+"Saint Lucia",2009,74.3,66
+"Saudi Arabia",2013,74.3,80
+"Slovakia",2006,74.3,54
+"Thailand",2012,74.3,80
+"Albania",2006,74.2,55
+"Antigua and Barbuda",2003,74.2,49
+"Bahamas",2006,74.2,56
+"Barbados",2007,74.2,59
+"China",2006,74.2,57
+"Colombia",2011,74.2,77
+"Ecuador",2005,74.2,52
+"Estonia",2008,74.2,61
+"Georgia",2012,74.2,81
+"Hungary",2009,74.2,67
+"Jamaica",2007,74.2,60
+"Kuwait",2011,74.2,78
+"Mauritius",2014,74.2,85
+"Montenegro",2007,74.2,61
+"Peru",2006,74.2,58
+"Poland",2001,74.2,51
+"Saint Lucia",2010,74.2,67
+"Sri Lanka",2005,74.2,53
+"The former Yugoslav republic of Macedonia",2008,74.2,62
+"Tunisia",2005,74.2,54
+"Turkey",2010,74.2,68
+"United Arab Emirates",2000,74.2,48
+"Vietnam",2004,74.2,47
+"Algeria",2008,74.1,63
+"Argentina",2003,74.1,50
+"Argentina",2002,74.1,50
+"Argentina",2000,74.1,49
+"Bahamas",2005,74.1,55
+"Barbados",2006,74.1,59
+"Brazil",2011,74.1,79
+"Bulgaria",2013,74.1,81
+"Honduras",2012,74.1,82
+"Hungary",2008,74.1,64
+"Iran",2010,74.1,69
+"Jordan",2015,74.1,88
+"Latvia",2013,74.1,82
+"Lebanon",2006,74.1,60
+"Malaysia",2010,74.1,70
+"Mauritius",2013,74.1,83
+"Morocco",2014,74.1,86
+"Saint Lucia",2008,74.1,65
+"Saudi Arabia",2012,74.1,83
+"Serbia",2009,74.1,68
+"Slovakia",2004,74.1,48
+"Thailand",2011,74.1,80
+"Venezuela",2015,74.1,89
+"Antigua and Barbuda",2002,74,51
+"Argentina",2001,74,52
+"Bolivia ",2014,74,87
+"Egypt",2011,74,81
+"Grenada",2000,74,50
+"Iraq",2009,74,69
+"Iraq",2002,74,52
+"Jamaica",2006,74,61
+"Jordan",2014,74,88
+"Kuwait",2010,74,71
+"Malaysia",2009,74,70
+"Oman",2004,74,49
+"Paraguay",2015,74,90
+"Peru",2007,74,62
+"Samoa",2015,74,91
+"Serbia",2008,74,66
+"Slovakia",2005,74,56
+"Trinidad and Tobago",2010,74,72
+"Tunisia",2004,74,50
+"Turkey",2000,74,51
+"Vietnam",2003,74,51
+"Armenia",2011,73.9,82
+"Barbados",2005,73.9,57
+"Bulgaria",2012,73.9,84
+"China",2005,73.9,58
+"Dominican Republic",2015,73.9,92
+"Georgia",2011,73.9,83
+"Georgia",2008,73.9,67
+"Georgia",2006,73.9,62
+"Georgia",2005,73.9,59
+"Honduras",2011,73.9,84
+"Jordan",2013,73.9,84
+"Kuwait",2009,73.9,71
+"Lebanon",2005,73.9,60
+"Mauritius",2012,73.9,85
+"Morocco",2013,73.9,85
+"Nicaragua",2013,73.9,86
+"Nicaragua",2012,73.9,86
+"Paraguay",2014,73.9,89
+"Peru",2008,73.9,68
+"Saint Lucia",2007,73.9,63
+"Saudi Arabia",2011,73.9,85
+"Sri Lanka",2003,73.9,52
+"Thailand",2010,73.9,73
+"Turkey",2009,73.9,72
+"Venezuela",2014,73.9,90
+"Algeria",2007,73.8,64
+"Antigua and Barbuda",2001,73.8,53
+"Bahamas",2004,73.8,51
+"Barbados",2004,73.8,52
+"Brazil",2010,73.8,74
+"Georgia",2010,73.8,75
+"Kuwait",2008,73.8,69
+"Latvia",2012,73.8,87
+"Malaysia",2008,73.8,70
+"Montenegro",2006,73.8,63
+"Paraguay",2013,73.8,87
+"Peru",2009,73.8,73
+"Samoa",2014,73.8,91
+"Serbia",2007,73.8,65
+"Slovakia",2003,73.8,53
+"Sri Lanka",2006,73.8,64
+"Syria",2009,73.8,74
+"Syria",2008,73.8,71
+"Syria",2007,73.8,66
+"Venezuela",2013,73.8,88
+"Venezuela",2011,73.8,86
+"Vietnam",2002,73.8,53
+"Barbados",2003,73.7,54
+"Bulgaria",2011,73.7,87
+"Jordan",2012,73.7,88
+"Kuwait",2007,73.7,67
+"Lebanon",2004,73.7,53
+"Malaysia",2007,73.7,68
+"Peru",2010,73.7,76
+"Poland",2000,73.7,52
+"Saudi Arabia",2010,73.7,77
+"Slovakia",2002,73.7,54
+"Sri Lanka",2007,73.7,69
+"Sri Lanka",2002,73.7,55
+"Syria",2010,73.7,78
+"Syria",2006,73.7,65
+"Thailand",2009,73.7,75
+"The former Yugoslav republic of Macedonia",2006,73.7,66
+"Tunisia",2003,73.7,55
+"Venezuela",2012,73.7,89
+"Venezuela",2010,73.7,79
+"Albania",2001,73.6,54
+"Antigua and Barbuda",2000,73.6,53
+"Brazil",2009,73.6,76
+"Colombia",2010,73.6,80
+"Colombia",2009,73.6,77
+"Dominican Republic",2014,73.6,92
+"Dominican Republic",2009,73.6,78
+"Ecuador",2002,73.6,56
+"Grenada",2015,73.6,93
+"Honduras",2010,73.6,81
+"Jordan",2011,73.6,88
+"Kuwait",2006,73.6,67
+"Kuwait",2005,73.6,61
+"Latvia",2011,73.6,89
+"Lithuania",2015,73.6,94
+"Malaysia",2006,73.6,68
+"Mauritius",2011,73.6,90
+"Montenegro",2005,73.6,62
+"Morocco",2012,73.6,90
+"Oman",2003,73.6,56
+"Paraguay",2012,73.6,91
+"Samoa",2013,73.6,89
+"Serbia",2006,73.6,69
+"The former Yugoslav republic of Macedonia",2005,73.6,63
+"Venezuela",2009,73.6,79
+"Venezuela",2006,73.6,70
+"Venezuela",2005,73.6,64
+"Vietnam",2001,73.6,55
+"Albania",2005,73.5,65
+"Armenia",2010,73.5,82
+"Armenia",2007,73.5,70
+"Barbados",2002,73.5,57
+"China",2004,73.5,54
+"Colombia",2008,73.5,72
+"Colombia",2007,73.5,71
+"El Salvador",2015,73.5,95
+"Grenada",2014,73.5,93
+"Hungary",2007,73.5,72
+"Jamaica",2005,73.5,66
+"Kuwait",2004,73.5,55
+"Lebanon",2003,73.5,57
+"Montenegro",2004,73.5,56
+"Montenegro",2003,73.5,58
+"Saint Lucia",2006,73.5,71
+"Syria",2005,73.5,67
+"Thailand",2008,73.5,73
+"The former Yugoslav republic of Macedonia",2007,73.5,73
+"The former Yugoslav republic of Macedonia",2004,73.5,57
+"Tonga",2015,73.5,96
+"Tunisia",2002,73.5,58
+"Turkey",2008,73.5,74
+"Algeria",2006,73.4,72
+"Barbados",2001,73.4,56
+"Brazil",2008,73.4,75
+"Bulgaria",2010,73.4,83
+"Dominican Republic",2013,73.4,90
+"Ecuador",2001,73.4,57
+"Honduras",2009,73.4,80
+"Hungary",2006,73.4,73
+"Jordan",2010,73.4,84
+"Kuwait",2003,73.4,59
+"Lithuania",2014,73.4,94
+"Malaysia",2005,73.4,68
+"Maldives",2004,73.4,58
+"Montenegro",2002,73.4,59
+"Paraguay",2011,73.4,91
+"Romania",2010,73.4,85
+"Saudi Arabia",2009,73.4,81
+"Venezuela",2007,73.4,74
+"Vietnam",2000,73.4,54
+"Albania",2002,73.3,60
+"Armenia",2009,73.3,82
+"Barbados",2000,73.3,55
+"Brazil",2007,73.3,75
+"Cabo Verde",2015,73.3,97
+"Dominican Republic",2008,73.3,76
+"El Salvador",2014,73.3,95
+"Grenada",2013,73.3,91
+"Iran",2009,73.3,83
+"Jamaica",2004,73.3,59
+"Jordan",2009,73.3,84
+"Kuwait",2002,73.3,61
+"Mauritius",2010,73.3,86
+"Montenegro",2001,73.3,58
+"Morocco",2011,73.3,92
+"Oman",2002,73.3,62
+"Saudi Arabia",2008,73.3,77
+"Slovakia",2001,73.3,59
+"Thailand",2007,73.3,76
+"Tonga",2014,73.3,96
+"Venezuela",2004,73.3,60
+"Armenia",2008,73.2,78
+"Bahamas",2003,73.2,60
+"Bulgaria",2009,73.2,85
+"Georgia",2009,73.2,86
+"Honduras",2008,73.2,79
+"Kuwait",2001,73.2,60
+"Kuwait",2000,73.2,56
+"Lebanon",2002,73.2,63
+"Malaysia",2004,73.2,61
+"Nicaragua",2010,73.2,87
+"Nicaragua",2009,73.2,87
+"Paraguay",2010,73.2,88
+"Saint Vincent and the Grenadines",2015,73.2,98
+"Samoa",2012,73.2,92
+"Saudi Arabia",2007,73.2,77
+"Saudi Arabia",2006,73.2,74
+"Seychelles",2015,73.2,99
+"Syria",2004,73.2,62
+"The former Yugoslav republic of Macedonia",2003,73.2,61
+"Tonga",2013,73.2,92
+"Tunisia",2001,73.2,61
+"Turkey",2007,73.2,78
+"Venezuela",2008,73.2,80
+"Bahamas",2002,73.1,64
+"China",2003,73.1,62
+"Colombia",2006,73.1,75
+"Colombia",2005,73.1,69
+"Dominican Republic",2011,73.1,93
+"Grenada",2012,73.1,93
+"Jamaica",2003,73.1,63
+"Jordan",2008,73.1,81
+"Malaysia",2003,73.1,64
+"Romania",2009,73.1,88
+"Romania",2008,73.1,82
+"Saint Lucia",2005,73.1,70
+"Saint Vincent and the Grenadines",2014,73.1,97
+"Saudi Arabia",2005,73.1,71
+"Saudi Arabia",2004,73.1,63
+"Serbia",2001,73.1,62
+"The former Yugoslav republic of Macedonia",2001,73.1,63
+"Venezuela",2002,73.1,65
+"Albania",2004,73,64
+"Armenia",2005,73,72
+"Armenia",2004,73,65
+"Azerbaijan",2008,73,83
+"Azerbaijan",2007,73,79
+"Bangladesh",2011,73,94
+"Belarus",2010,73,89
+"Brazil",2006,73,76
+"Cabo Verde",2014,73,98
+"Cabo Verde",2001,73,64
+"Dominican Republic",2003,73,65
+"El Salvador",2013,73,93
+"El Salvador",2012,73,94
+"El Salvador",2002,73,66
+"Estonia",2007,73,80
+"Estonia",2006,73,77
+"Georgia",2001,73,65
+"Grenada",2004,73,66
+"Honduras",2007,73,81
+"Iran",2000,73,57
+"Jamaica",2002,73,67
+"Jordan",2007,73,82
+"Latvia",2002,73,68
+"Lebanon",2001,73,66
+"Lithuania",2013,73,94
+"Lithuania",2012,73,95
+"Montenegro",2000,73,58
+"Nicaragua",2006,73,78
+"Nicaragua",2001,73,67
+"Nicaragua",2000,73,59
+"North Korea",2014,73,99
+"Paraguay",2009,73,89
+"Russia",2014,73,100
+"Samoa",2011,73,95
+"Saudi Arabia",2003,73,66
+"Serbia",2005,73,73
+"Serbia",2004,73,67
+"Serbia",2003,73,67
+"Seychelles",2014,73,101
+"Slovakia",2000,73,60
+"Suriname",2010,73,90
+"Syria",2003,73,68
+"Thailand",2006,73,79
+"Tonga",2012,73,96
+"Vanuatu",2007,73,83
+"Algeria",2005,72.9,74
+"Armenia",2006,72.9,80
+"Bahamas",2001,72.9,68
+"Bulgaria",2008,72.9,84
+"Dominican Republic",2007,72.9,84
+"Grenada",2011,72.9,96
+"Hungary",2005,72.9,75
+"Hungary",2004,72.9,68
+"Libya",2013,72.9,95
+"Libya",2012,72.9,97
+"Malaysia",2002,72.9,69
+"Mauritius",2007,72.9,85
+"Oman",2001,72.9,69
+"Romania",2007,72.9,86
+"Saudi Arabia",2002,72.9,70
+"Serbia",2002,72.9,71
+"Seychelles",2013,72.9,96
+"Tonga",2011,72.9,97
+"Tunisia",2000,72.9,61
+"Albania",2003,72.8,69
+"Cabo Verde",2013,72.8,97
+"Colombia",2004,72.8,69
+"Ecuador",2000,72.8,62
+"Estonia",2005,72.8,76
+"Honduras",2006,72.8,81
+"Jordan",2006,72.8,82
+"Latvia",2010,72.8,91
+"Libya",2010,72.8,92
+"Lithuania",2011,72.8,98
+"Mauritius",2009,72.8,90
+"Morocco",2010,72.8,93
+"Peru",2005,72.8,77
+"Saint Vincent and the Grenadines",2012,72.8,98
+"Saudi Arabia",2001,72.8,70
+"Syria",2002,72.8,72
+"The former Yugoslav republic of Macedonia",2002,72.8,73
+"Tonga",2010,72.8,94
+"Turkey",2006,72.8,83
+"Armenia",2003,72.7,70
+"Azerbaijan",2015,72.7,100
+"Brazil",2005,72.7,78
+"Cabo Verde",2012,72.7,99
+"China",2002,72.7,74
+"Dominican Republic",2010,72.7,95
+"Georgia",2003,72.7,71
+"Iran",2008,72.7,85
+"Jamaica",2001,72.7,71
+"Lebanon",2000,72.7,63
+"Libya",2015,72.7,101
+"Libya",2009,72.7,91
+"Malaysia",2001,72.7,72
+"Maldives",2003,72.7,72
+"Mauritius",2008,72.7,86
+"Paraguay",2008,72.7,87
+"Saint Vincent and the Grenadines",2013,72.7,98
+"Saint Vincent and the Grenadines",2011,72.7,99
+"Seychelles",2012,72.7,100
+"Sri Lanka",2001,72.7,73
+"Syria",2001,72.7,74
+"Albania",2000,72.6,64
+"Armenia",2002,72.6,75
+"Armenia",2001,72.6,75
+"Bahamas",2000,72.6,65
+"Bulgaria",2007,72.6,87
+"Cabo Verde",2011,72.6,100
+"Grenada",2010,72.6,96
+"Jamaica",2000,72.6,66
+"Latvia",2009,72.6,92
+"Libya",2008,72.6,88
+"Oman",2000,72.6,67
+"Peru",2002,72.6,76
+"Saint Lucia",2004,72.6,70
+"Samoa",2010,72.6,97
+"Saudi Arabia",2000,72.6,68
+"Serbia",2000,72.6,69
+"Seychelles",2011,72.6,101
+"Syria",2000,72.6,70
+"The former Yugoslav republic of Macedonia",2000,72.6,71
+"Tonga",2008,72.6,89
+"Azerbaijan",2014,72.5,102
+"Cabo Verde",2010,72.5,98
+"Honduras",2005,72.5,79
+"Hungary",2003,72.5,73
+"Hungary",2002,72.5,77
+"Jordan",2004,72.5,71
+"Libya",2007,72.5,88
+"Nicaragua",2008,72.5,90
+"Nicaragua",2007,72.5,89
+"Paraguay",2007,72.5,90
+"Romania",2006,72.5,84
+"Saint Vincent and the Grenadines",2010,72.5,99
+"Samoa",2008,72.5,91
+"Thailand",2005,72.5,80
+"Tonga",2009,72.5,93
+"Tonga",2007,72.5,91
+"Venezuela",2001,72.5,76
+"Venezuela",2000,72.5,72
+"Cabo Verde",2009,72.4,94
+"Cabo Verde",2008,72.4,92
+"Colombia",2003,72.4,74
+"Grenada",2009,72.4,95
+"Iran",2007,72.4,92
+"Jordan",2005,72.4,81
+"Libya",2014,72.4,103
+"Lithuania",2010,72.4,100
+"Malaysia",2000,72.4,73
+"Peru",2001,72.4,77
+"Seychelles",2010,72.4,101
+"Tonga",2006,72.4,85
+"Turkey",2005,72.4,82
+"Venezuela",2003,72.4,75
+"Algeria",2004,72.3,72
+"Belarus",2015,72.3,102
+"Cabo Verde",2007,72.3,93
+"Dominican Republic",2006,72.3,86
+"Estonia",2004,72.3,73
+"Georgia",2004,72.3,74
+"Hungary",2001,72.3,78
+"Jordan",2003,72.3,76
+"Morocco",2009,72.3,96
+"Paraguay",2006,72.3,87
+"Saint Vincent and the Grenadines",2009,72.3,97
+"Seychelles",2009,72.3,98
+"Sri Lanka",2008,72.3,93
+"Tonga",2005,72.3,83
+"Azerbaijan",2013,72.2,99
+"Bulgaria",2006,72.2,88
+"Bulgaria",2004,72.2,75
+"China",2001,72.2,79
+"Honduras",2004,72.2,76
+"Iran",2006,72.2,89
+"Libya",2006,72.2,90
+"Lithuania",2009,72.2,99
+"Peru",2004,72.2,77
+"Saint Lucia",2003,72.2,77
+"Samoa",2007,72.2,94
+"Seychelles",2008,72.2,94
+"Seychelles",2007,72.2,95
+"Seychelles",2006,72.2,91
+"Seychelles",2005,72.2,84
+"Tonga",2004,72.2,78
+"Bulgaria",2005,72.1,85
+"Cabo Verde",2006,72.1,92
+"Dominican Republic",2012,72.1,101
+"Grenada",2008,72.1,95
+"Jordan",2002,72.1,78
+"Mauritius",2005,72.1,86
+"Paraguay",2005,72.1,87
+"Peru",2003,72.1,78
+"Republic of Moldova",2015,72.1,103
+"Saint Vincent and the Grenadines",2008,72.1,96
+"Seychelles",2004,72.1,79
+"Seychelles",2003,72.1,79
+"Seychelles",2002,72.1,79
+"Armenia",2000,72,74
+"Belarus",2014,72,104
+"Belarus",2011,72,102
+"Brazil",2004,72,80
+"Bulgaria",2003,72,80
+"Dominican Republic",2000,72,75
+"Egypt",2012,72,102
+"El Salvador",2011,72,103
+"El Salvador",2010,72,102
+"Iran",2005,72,88
+"Iraq",2001,72,80
+"Kazakhstan",2015,72,104
+"Lithuania",2007,72,96
+"Morocco",2004,72,81
+"Saint Lucia",2002,72,80
+"Samoa",2006,72,93
+"Samoa",2000,72,76
+"Seychelles",2001,72,81
+"Tonga",2003,72,81
+"Turkey",2004,72,82
+"Vanuatu",2015,72,105
+"Azerbaijan",2012,71.9,103
+"Belarus",2012,71.9,104
+"Estonia",2003,71.9,82
+"Grenada",2007,71.9,97
+"Guatemala",2015,71.9,106
+"Honduras",2003,71.9,83
+"Jordan",2001,71.9,82
+"Latvia",2008,71.9,97
+"Libya",2005,71.9,89
+"Mauritius",2004,71.9,83
+"Paraguay",2004,71.9,84
+"Romania",2005,71.9,90
+"Saint Vincent and the Grenadines",2007,71.9,98
+"Tonga",2002,71.9,81
+"Bangladesh",2015,71.8,107
+"Brazil",2003,71.8,84
+"Bulgaria",2002,71.8,82
+"Cabo Verde",2005,71.8,91
+"Colombia",2002,71.8,83
+"Georgia",2000,71.8,77
+"Iran",2004,71.8,85
+"Maldives",2002,71.8,84
+"Mauritius",2006,71.8,94
+"Morocco",2008,71.8,98
+"Republic of Moldova",2014,71.8,105
+"Saint Lucia",2001,71.8,83
+"Seychelles",2000,71.8,78
+"Sri Lanka",2009,71.8,100
+"Tonga",2001,71.8,84
+"Algeria",2003,71.7,85
+"Belarus",2013,71.7,100
+"China",2000,71.7,79
+"El Salvador",2008,71.7,99
+"Georgia",2002,71.7,85
+"Grenada",2006,71.7,95
+"Guatemala",2014,71.7,106
+"Hungary",2000,71.7,80
+"Jordan",2000,71.7,81
+"Paraguay",2003,71.7,86
+"Republic of Moldova",2013,71.7,101
+"Romania",2004,71.7,86
+"Saint Vincent and the Grenadines",2006,71.7,96
+"Syria",2011,71.7,104
+"Thailand",2003,71.7,87
+"Vanuatu",2014,71.7,107
+"Algeria",2002,71.6,86
+"Azerbaijan",2011,71.6,105
+"Bulgaria",2001,71.6,85
+"Honduras",2002,71.6,87
+"Lithuania",2004,71.6,87
+"Lithuania",2003,71.6,88
+"Lithuania",2000,71.6,82
+"Saint Lucia",2000,71.6,83
+"Samoa",2005,71.6,92
+"Suriname",2015,71.6,108
+"Thailand",2004,71.6,88
+"Tonga",2000,71.6,84
+"Turkey",2003,71.6,89
+"Vanuatu",2013,71.6,102
+"Colombia",2001,71.5,86
+"Grenada",2005,71.5,93
+"Libya",2004,71.5,89
+"Mauritius",2003,71.5,90
+"Mauritius",2002,71.5,88
+"Mauritius",2001,71.5,87
+"Paraguay",2002,71.5,89
+"Sri Lanka",2000,71.5,85
+"Algeria",2001,71.4,88
+"Bangladesh",2014,71.4,108
+"Brazil",2002,71.4,90
+"Cabo Verde",2004,71.4,90
+"Colombia",2000,71.4,86
+"Dominican Republic",2002,71.4,91
+"El Salvador",2009,71.4,101
+"Guatemala",2013,71.4,103
+"Lithuania",2002,71.4,92
+"Morocco",2007,71.4,99
+"Peru",2000,71.4,87
+"Saint Vincent and the Grenadines",2005,71.4,94
+"Samoa",2004,71.4,91
+"Suriname",2014,71.4,109
+"Thailand",2002,71.4,93
+"Vanuatu",2012,71.4,105
+"Algeria",2000,71.3,88
+"Guatemala",2012,71.3,106
+"Honduras",2001,71.3,89
+"Libya",2011,71.3,106
+"Libya",2003,71.3,91
+"Suriname",2012,71.3,107
+"Ukraine",2015,71.3,109
+"Dominican Republic",2001,71.2,90
+"El Salvador",2007,71.2,100
+"Estonia",2002,71.2,94
+"Iran",2002,71.2,95
+"Lithuania",2001,71.2,91
+"Nicaragua",2005,71.2,95
+"Paraguay",2001,71.2,92
+"Saint Vincent and the Grenadines",2004,71.2,92
+"Suriname",2013,71.2,104
+"Thailand",2001,71.2,93
+"Trinidad and Tobago",2015,71.2,110
+"Turkey",2002,71.2,96
+"Vanuatu",2011,71.2,107
+"Azerbaijan",2010,71.1,103
+"Bulgaria",2000,71.1,89
+"Cabo Verde",2003,71.1,92
+"Grenada",2003,71.1,93
+"Guatemala",2011,71.1,108
+"Kyrgyzstan",2015,71.1,111
+"Libya",2002,71.1,97
+"Lithuania",2008,71.1,100
+"Romania",2003,71.1,94
+"Thailand",2000,71.1,90
+"Trinidad and Tobago",2014,71.1,110
+"Bangladesh",2013,71,105
+"Belize",2015,71,112
+"Bolivia ",2013,71,106
+"Brazil",2001,71,94
+"El Salvador",2005,71,96
+"Honduras",2000,71,91
+"Latvia",2004,71,93
+"Latvia",2000,71,92
+"Libya",2001,71,95
+"Mauritius",2000,71,93
+"Morocco",2006,71,97
+"Nicaragua",2004,71,94
+"North Korea",2013,71,107
+"Saint Vincent and the Grenadines",2003,71,95
+"Trinidad and Tobago",2013,71,108
+"Trinidad and Tobago",2009,71,102
+"Ukraine",2013,71,109
+"Vanuatu",2010,71,104
+"Vanuatu",2006,71,98
+"Belarus",2009,70,103
+"Belarus",2008,70,101
+"Belize",2014,70,111
+"Egypt",2010,70,105
+"El Salvador",2004,70,95
+"Iraq",2000,70,94
+"Russia",2013,70,110
+"Suriname",2009,70,104
+"Bangladesh",2010,69.9,106
+"Cabo Verde",2000,69.9,95
+"Egypt",2009,69.9,105
+"El Salvador",2003,69.9,96
+"Fiji",2015,69.9,113
+"Kazakhstan",2014,69.9,112
+"Kyrgyzstan",2012,69.9,108
+"Latvia",2001,69.9,96
+"Morocco",2003,69.9,97
+"Trinidad and Tobago",2008,69.9,102
+"Vanuatu",2005,69.9,97
+"Belarus",2007,69.8,101
+"Belize",2013,69.8,111
+"Bhutan",2015,69.8,114
+"Bolivia ",2012,69.8,109
+"Egypt",2008,69.8,103
+"North Korea",2012,69.8,110
+"Suriname",2008,69.8,104
+"Ukraine",2010,69.8,107
+"Dominican Republic",2005,69.7,98
+"Egypt",2007,69.7,102
+"Fiji",2014,69.7,113
+"Guatemala",2006,69.7,99
+"Tajikistan",2015,69.7,115
+"Trinidad and Tobago",2007,69.7,103
+"Belize",2008,69.6,105
+"Belize",2007,69.6,104
+"Fiji",2013,69.6,112
+"Guatemala",2004,69.6,96
+"Maldives",2000,69.6,96
+"Nepal",2014,69.6,114
+"Russia",2012,69.6,111
+"Tajikistan",2014,69.6,115
+"Trinidad and Tobago",2006,69.6,100
+"Vanuatu",2004,69.6,97
+"Bangladesh",2009,69.5,106
+"Belize",2010,69.5,108
+"Belize",2009,69.5,107
+"Egypt",2006,69.5,101
+"Iraq",2013,69.5,113
+"Kazakhstan",2013,69.5,114
+"Morocco",2002,69.5,98
+"Suriname",2007,69.5,105
+"Trinidad and Tobago",2005,69.5,99
+"Belize",2012,69.4,112
+"Belize",2011,69.4,109
+"Belize",2006,69.4,102
+"Bhutan",2014,69.4,116
+"Egypt",2005,69.4,100
+"Fiji",2012,69.4,113
+"Guatemala",2003,69.4,98
+"Kyrgyzstan",2011,69.4,110
+"Micronesia (Federated States of)",2015,69.4,116
+"Micronesia (Federated States of)",2014,69.4,117
+"North Korea",2011,69.4,111
+"Russia",2011,69.4,112
+"Trinidad and Tobago",2004,69.4,98
+"Uzbekistan",2015,69.4,117
+"Vanuatu",2003,69.4,99
+"Bolivia ",2011,69.3,113
+"Dominican Republic",2004,69.3,99
+"Guatemala",2002,69.3,99
+"Iraq",2008,69.3,106
+"Nepal",2013,69.3,115
+"Suriname",2006,69.3,103
+"Tajikistan",2013,69.3,116
+"Trinidad and Tobago",2003,69.3,100
+"Vanuatu",2002,69.3,100
+"Azerbaijan",2006,69.2,104
+"Fiji",2011,69.2,114
+"Guatemala",2005,69.2,101
+"Micronesia (Federated States of)",2013,69.2,117
+"Nepal",2015,69.2,118
+"Solomon Islands",2015,69.2,119
+"Trinidad and Tobago",2002,69.2,101
+"Ukraine",2009,69.2,108
+"Uzbekistan",2014,69.2,118
+"Bangladesh",2008,69.1,107
+"Bhutan",2013,69.1,118
+"Fiji",2010,69.1,109
+"Indonesia",2015,69.1,120
+"Kazakhstan",2012,69.1,114
+"Sri Lanka",2004,69.1,100
+"Trinidad and Tobago",2001,69.1,97
+"Trinidad and Tobago",2000,69.1,97
+"Uzbekistan",2013,69.1,119
+"Vanuatu",2001,69.1,98
+"Belize",2005,69,102
+"Djibouti",2009,69,109
+"Egypt",2004,69,101
+"El Salvador",2000,69,98
+"Ghana",2010,69,110
+"Madagascar",2005,69,103
+"Mauritania",2006,69,105
+"Micronesia (Federated States of)",2012,69,115
+"Morocco",2001,69,99
+"Niger",2013,69,120
+"North Korea",2010,69,111
+"Republic of Moldova",2009,69,110
+"South Africa",2013,69,121
+"Vanuatu",2000,69,99
+"Belarus",2006,68.9,106
+"El Salvador",2001,68.9,100
+"Fiji",2009,68.9,111
+"Indonesia",2014,68.9,119
+"Iraq",2015,68.9,121
+"Micronesia (Federated States of)",2011,68.9,115
+"Nepal",2012,68.9,116
+"Republic of Moldova",2008,68.9,108
+"Suriname",2005,68.9,104
+"Egypt",2000,68.8,100
+"Kyrgyzstan",2010,68.8,112
+"Mongolia",2015,68.8,122
+"Republic of Moldova",2010,68.8,113
+"Solomon Islands",2014,68.8,120
+"Solomon Islands",2013,68.8,122
+"Tajikistan",2012,68.8,117
+"Uzbekistan",2012,68.8,118
+"Belize",2004,68.7,102
+"Bhutan",2012,68.7,119
+"Bolivia ",2010,68.7,114
+"Cambodia",2015,68.7,123
+"Egypt",2002,68.7,102
+"Fiji",2008,68.7,109
+"Indonesia",2013,68.7,123
+"Micronesia (Federated States of)",2010,68.7,115
+"North Korea",2009,68.7,112
+"Solomon Islands",2012,68.7,120
+"Bangladesh",2007,68.6,106
+"Egypt",2003,68.6,101
+"Egypt",2001,68.6,101
+"Fiji",2007,68.6,107
+"Morocco",2000,68.6,101
+"North Korea",2008,68.6,110
+"Belize",2002,68.5,103
+"Fiji",2006,68.5,107
+"Indonesia",2012,68.5,121
+"Kazakhstan",2011,68.5,116
+"Kyrgyzstan",2009,68.5,113
+"Micronesia (Federated States of)",2009,68.5,114
+"North Korea",2007,68.5,108
+"North Korea",2006,68.5,108
+"North Korea",2005,68.5,105
+"Philippines",2015,68.5,124
+"Solomon Islands",2011,68.5,117
+"Uzbekistan",2011,68.5,118
+"Azerbaijan",2005,68.4,106
+"Azerbaijan",2004,68.4,103
+"Belize",2003,68.4,102
+"Guatemala",2001,68.4,102
+"Micronesia (Federated States of)",2008,68.4,111
+"Mongolia",2014,68.4,121
+"Nepal",2011,68.4,119
+"North Korea",2004,68.4,104
+"Philippines",2014,68.4,122
+"Russia",2010,68.4,116
+"Belize",2000,68.3,102
+"Bhutan",2011,68.3,120
+"Cambodia",2014,68.3,123
+"Fiji",2005,68.3,107
+"India",2015,68.3,125
+"Indonesia",2011,68.3,121
+"Republic of Moldova",2007,68.3,109
+"Solomon Islands",2010,68.3,117
+"Suriname",2004,68.3,105
+"Timor-Leste",2015,68.3,126
+"Uzbekistan",2010,68.3,118
+"Bangladesh",2006,68.2,109
+"Belarus",2004,68.2,106
+"Belize",2001,68.2,103
+"Micronesia (Federated States of)",2007,68.2,110
+"Russia",2009,68.2,115
+"Belarus",2005,68.1,108
+"Fiji",2004,68.1,107
+"Indonesia",2010,68.1,119
+"Mongolia",2013,68.1,124
+"North Korea",2003,68.1,103
+"Philippines",2013,68.1,125
+"Philippines",2012,68.1,122
+"Solomon Islands",2009,68.1,116
+"Tajikistan",2011,68.1,122
+"Belarus",2000,68,103
+"Bolivia ",2009,68,117
+"Congo",2009,68,118
+"Ethiopia",2009,68,119
+"Fiji",2003,68,104
+"Gambia",2014,68,124
+"India",2014,68,125
+"Micronesia (Federated States of)",2006,68,110
+"Nepal",2010,68,120
+"Papua New Guinea",2006,68,111
+"Philippines",2011,68,123
+"Philippines",2009,68,120
+"Republic of Moldova",2006,68,112
+"Republic of Moldova",2004,68,108
+"Rwanda",2008,68,112
+"Solomon Islands",2008,68,113
+"Suriname",2003,68,105
+"Timor-Leste",2014,68,126
+"Uzbekistan",2009,68,121
+"Yemen",2000,68,104
+"Bhutan",2010,67.9,121
+"Fiji",2002,67.9,104
+"Indonesia",2009,67.9,122
+"Iraq",2014,67.9,127
+"Micronesia (Federated States of)",2005,67.9,109
+"Philippines",2010,67.9,122
+"Suriname",2002,67.9,105
+"Uzbekistan",2008,67.9,114
+"Azerbaijan",2003,67.8,106
+"Azerbaijan",2002,67.8,106
+"Bangladesh",2005,67.8,110
+"Cambodia",2013,67.8,126
+"Fiji",2001,67.8,104
+"Kazakhstan",2010,67.8,123
+"Kazakhstan",2009,67.8,123
+"Mongolia",2012,67.8,123
+"Uzbekistan",2007,67.8,111
+"Uzbekistan",2004,67.8,109
+"Belarus",2003,67.7,107
+"Belarus",2001,67.7,105
+"Fiji",2000,67.7,105
+"Guatemala",2000,67.7,106
+"Indonesia",2008,67.7,115
+"Micronesia (Federated States of)",2004,67.7,110
+"Suriname",2001,67.7,106
+"Timor-Leste",2013,67.7,127
+"Ukraine",2008,67.7,116
+"Ukraine",2006,67.7,113
+"Ukraine",2001,67.7,107
+"India",2013,67.6,128
+"Kyrgyzstan",2008,67.6,117
+"North Korea",2002,67.6,107
+"Republic of Moldova",2003,67.6,108
+"Republic of Moldova",2001,67.6,108
+"Solomon Islands",2007,67.6,112
+"Solomon Islands",2006,67.6,114
+"Ukraine",2003,67.6,109
+"Ukraine",2002,67.6,108
+"Uzbekistan",2006,67.6,115
+"Azerbaijan",2001,67.5,109
+"Indonesia",2007,67.5,113
+"Micronesia (Federated States of)",2003,67.5,110
+"Nepal",2009,67.5,124
+"Philippines",2008,67.5,118
+"Philippines",2007,67.5,114
+"Republic of Moldova",2002,67.5,109
+"Russia",2008,67.5,119
+"Sao Tome and Principe",2015,67.5,127
+"Ukraine",2007,67.5,115
+"Ukraine",2000,67.5,107
+"Bhutan",2009,67.4,125
+"Bolivia ",2008,67.4,120
+"Cambodia",2012,67.4,124
+"Mongolia",2008,67.4,121
+"Solomon Islands",2005,67.4,111
+"Suriname",2000,67.4,108
+"Timor-Leste",2012,67.4,125
+"Ukraine",2004,67.4,111
+"Uzbekistan",2001,67.4,110
+"Bangladesh",2004,67.3,112
+"India",2012,67.3,126
+"Indonesia",2006,67.3,116
+"Mongolia",2011,67.3,124
+"Philippines",2006,67.3,117
+"Philippines",2004,67.3,113
+"Republic of Moldova",2005,67.3,112
+"Russia",2007,67.3,116
+"Sao Tome and Principe",2014,67.3,128
+"Tajikistan",2010,67.3,124
+"Uzbekistan",2005,67.3,113
+"Belarus",2002,67.2,110
+"Indonesia",2005,67.2,114
+"Iraq",2004,67.2,114
+"Kyrgyzstan",2007,67.2,117
+"Kyrgyzstan",2001,67.2,111
+"Micronesia (Federated States of)",2001,67.2,112
+"Philippines",2003,67.2,111
+"Timor-Leste",2011,67.2,125
+"Uzbekistan",2003,67.2,112
+"Kyrgyzstan",2004,67.1,115
+"Republic of Moldova",2000,67.1,109
+"Sao Tome and Principe",2013,67.1,129
+"Solomon Islands",2004,67.1,116
+"Uzbekistan",2002,67.1,111
+"Uzbekistan",2000,67.1,110
+"Bhutan",2008,67,122
+"Cambodia",2011,67,126
+"Eritrea",2008,67,123
+"Liberia",2012,67,127
+"Micronesia (Federated States of)",2000,67,111
+"Nepal",2008,67,124
+"Philippines",2005,67,115
+"Sudan",2005,67,116
+"Tanzania",2014,67,129
+"Uganda",2013,67,130
+"Ukraine",2005,67,117
+"Zimbabwe",2015,67,128
+"Indonesia",2003,66.9,113
+"Kyrgyzstan",2005,66.9,118
+"Mongolia",2009,66.9,126
+"Sao Tome and Principe",2012,66.9,128
+"Timor-Leste",2010,66.9,125
+"Bangladesh",2003,66.8,114
+"Bolivia ",2007,66.8,118
+"India",2011,66.8,127
+"Iraq",2005,66.8,119
+"Philippines",2002,66.8,112
+"Philippines",2001,66.8,113
+"Philippines",2000,66.8,112
+"Solomon Islands",2003,66.8,115
+"Indonesia",2002,66.7,113
+"Kyrgyzstan",2006,66.7,118
+"Kyrgyzstan",2002,66.7,114
+"Senegal",2015,66.7,129
+"Tajikistan",2009,66.7,127
+"Azerbaijan",2000,66.6,113
+"Cambodia",2010,66.6,126
+"Kazakhstan",2008,66.6,125
+"Kyrgyzstan",2003,66.6,116
+"Kyrgyzstan",2000,66.6,114
+"Myanmar",2015,66.6,130
+"Nepal",2007,66.6,119
+"North Korea",2001,66.6,114
+"Sao Tome and Principe",2011,66.6,128
+"Timor-Leste",2009,66.6,128
+"Bhutan",2007,66.5,120
+"Indonesia",2001,66.5,115
+"Iraq",2003,66.5,117
+"Solomon Islands",2002,66.5,115
+"India",2010,66.4,127
+"Myanmar",2014,66.4,130
+"Pakistan",2015,66.4,131
+"Russia",2006,66.4,119
+"Senegal",2014,66.4,131
+"Tajikistan",2008,66.4,126
+"Bangladesh",2002,66.3,116
+"Guyana",2008,66.3,127
+"Indonesia",2000,66.3,115
+"Kiribati",2015,66.3,132
+"Mongolia",2010,66.3,128
+"Turkmenistan",2015,66.3,133
+"Bolivia ",2006,66.2,120
+"Guyana",2015,66.2,134
+"Micronesia (Federated States of)",2002,66.2,117
+"Myanmar",2013,66.2,131
+"Pakistan",2014,66.2,132
+"Sao Tome and Principe",2010,66.2,129
+"Solomon Islands",2001,66.2,116
+"Timor-Leste",2008,66.2,128
+"Cambodia",2009,66.1,129
+"Guyana",2009,66.1,130
+"Kiribati",2014,66.1,133
+"Namibia",2013,66.1,132
+"Rwanda",2015,66.1,135
+"Tajikistan",2007,66.1,121
+"Comoros",2007,66,122
+"Gabon",2015,66,136
+"Gambia",2013,66,133
+"Ghana",2009,66,131
+"Guyana",2014,66,134
+"India",2009,66,132
+"Mauritania",2005,66,120
+"Nepal",2006,66,121
+"Pakistan",2013,66,134
+"Senegal",2013,66,135
+"Turkmenistan",2014,66,135
+"Guyana",2013,65.9,136
+"Guyana",2010,65.9,130
+"Iraq",2007,65.9,123
+"Mongolia",2007,65.9,124
+"Myanmar",2012,65.9,129
+"Namibia",2014,65.9,136
+"Tajikistan",2006,65.9,122
+"Tajikistan",2004,65.9,117
+"Bangladesh",2001,65.8,117
+"Bhutan",2006,65.8,123
+"Guyana",2012,65.8,130
+"Kiribati",2013,65.8,137
+"Namibia",2015,65.8,137
+"Namibia",2012,65.8,131
+"Sao Tome and Principe",2009,65.8,133
+"Solomon Islands",2000,65.8,116
+"Timor-Leste",2007,65.8,125
+"Turkmenistan",2010,65.8,131
+"Bolivia ",2005,65.7,121
+"Botswana",2015,65.7,138
+"Guyana",2007,65.7,126
+"Kiribati",2012,65.7,132
+"Laos",2015,65.7,139
+"Pakistan",2012,65.7,133
+"Rwanda",2014,65.7,137
+"Yemen",2015,65.7,140
+"Cambodia",2008,65.6,129
+"Guyana",2011,65.6,129
+"Myanmar",2011,65.6,130
+"Senegal",2012,65.6,134
+"Turkmenistan",2012,65.6,135
+"Turkmenistan",2011,65.6,131
+"Turkmenistan",2009,65.6,134
+"Gabon",2014,65.5,138
+"India",2008,65.5,130
+"Kiribati",2011,65.5,132
+"Madagascar",2015,65.5,141
+"Pakistan",2011,65.5,133
+"Tajikistan",2005,65.5,122
+"Guyana",2001,65.4,118
+"Guyana",2000,65.4,117
+"Myanmar",2010,65.4,132
+"Nepal",2005,65.4,123
+"North Korea",2000,65.4,118
+"Sao Tome and Principe",2008,65.4,131
+"Turkmenistan",2013,65.4,138
+"Yemen",2014,65.4,139
+"Yemen",2013,65.4,139
+"Bangladesh",2000,65.3,119
+"Guyana",2003,65.3,118
+"Guyana",2002,65.3,118
+"Indonesia",2004,65.3,118
+"Kazakhstan",2007,65.3,127
+"Kiribati",2010,65.3,133
+"Laos",2014,65.3,140
+"Guyana",2006,65.2,124
+"India",2007,65.2,128
+"Kiribati",2009,65.2,135
+"Myanmar",2009,65.2,136
+"Rwanda",2013,65.2,140
+"Tajikistan",2003,65.2,119
+"Bolivia ",2004,65.1,119
+"Botswana",2014,65.1,141
+"Guyana",2004,65.1,120
+"Kiribati",2008,65.1,132
+"Madagascar",2014,65.1,142
+"Pakistan",2010,65.1,134
+"Russia",2001,65.1,119
+"Sao Tome and Principe",2007,65.1,129
+"Afghanistan",2015,65,142
+"Bhutan",2005,65,124
+"Cambodia",2007,65,130
+"Gabon",2005,65,125
+"Guyana",2005,65,126
+"Haiti",2005,65,127
+"Kazakhstan",2006,65,125
+"Kiribati",2007,65,131
+"Kiribati",2006,65,126
+"Mongolia",2006,65,127
+"Russia",2005,65,128
+"Russia",2000,65,120
+"Senegal",2005,65,129
+"Kiribati",2005,64.9,130
+"Laos",2013,64.9,141
+"Russia",2004,64.9,121
+"Senegal",2011,64.9,134
+"Timor-Leste",2006,64.9,128
+"Ethiopia",2015,64.8,143
+"India",2006,64.8,129
+"Kiribati",2004,64.8,122
+"Pakistan",2009,64.8,137
+"Russia",2002,64.8,119
+"Congo",2015,64.7,144
+"Eritrea",2015,64.7,145
+"Iraq",2006,64.7,130
+"Kazakhstan",2004,64.7,123
+"Kazakhstan",2002,64.7,120
+"Kiribati",2003,64.7,120
+"Madagascar",2013,64.7,142
+"Nepal",2004,64.7,124
+"Sao Tome and Principe",2006,64.7,131
+"Yemen",2012,64.7,136
+"Gabon",2013,64.6,143
+"Kazakhstan",2005,64.6,131
+"Kiribati",2002,64.6,121
+"Pakistan",2008,64.6,133
+"Russia",2003,64.6,121
+"Rwanda",2012,64.6,137
+"Yemen",2011,64.6,135
+"Bolivia ",2003,64.5,122
+"Mongolia",2005,64.5,132
+"Myanmar",2007,64.5,132
+"Syria",2015,64.5,146
+"Turkmenistan",2008,64.5,134
+"Eritrea",2014,64.4,143
+"India",2005,64.4,133
+"Kazakhstan",2003,64.4,123
+"Kazakhstan",2001,64.4,120
+"Laos",2012,64.4,138
+"Pakistan",2007,64.4,133
+"Syria",2014,64.4,144
+"Yemen",2010,64.4,135
+"Kiribati",2001,64.3,121
+"Madagascar",2012,64.3,139
+"Namibia",2011,64.3,136
+"Nepal",2003,64.3,124
+"Sao Tome and Principe",2005,64.3,134
+"Senegal",2010,64.3,136
+"Tajikistan",2002,64.3,122
+"Bhutan",2004,64.2,125
+"Botswana",2013,64.2,144
+"Congo",2014,64.2,145
+"Ethiopia",2014,64.2,146
+"Myanmar",2006,64.2,132
+"Pakistan",2006,64.2,133
+"Cambodia",2006,64.1,134
+"Kiribati",2000,64.1,121
+"Sudan",2015,64.1,147
+"Turkmenistan",2007,64.1,134
+"Yemen",2009,64.1,138
+"Eritrea",2013,64,145
+"India",2004,64,126
+"Laos",2011,64,137
+"Laos",2004,64,127
+"Madagascar",2004,64,128
+"Mauritania",2004,64,129
+"Mongolia",2004,64,130
+"Mongolia",2003,64,125
+"Papua New Guinea",2005,64,135
+"Tajikistan",2001,64,122
+"Turkmenistan",2001,64,123
+"Bolivia ",2002,63.9,123
+"Congo",2013,63.9,146
+"Kazakhstan",2000,63.9,122
+"Myanmar",2005,63.9,136
+"Madagascar",2011,63.8,138
+"Mongolia",2002,63.8,124
+"Rwanda",2011,63.8,139
+"Sao Tome and Principe",2004,63.8,131
+"Sudan",2014,63.8,147
+"Turkmenistan",2000,63.8,123
+"Yemen",2008,63.8,135
+"Congo",2012,63.7,140
+"Ethiopia",2013,63.7,147
+"India",2003,63.7,126
+"Pakistan",2004,63.7,132
+"Tajikistan",2000,63.7,124
+"Timor-Leste",2005,63.7,137
+"Turkmenistan",2006,63.7,135
+"Eritrea",2012,63.6,141
+"Laos",2010,63.6,137
+"Syria",2013,63.6,148
+"Comoros",2015,63.5,148
+"Djibouti",2015,63.5,149
+"Gabon",2012,63.5,142
+"Haiti",2015,63.5,150
+"Myanmar",2004,63.5,133
+"Pakistan",2003,63.5,127
+"Senegal",2009,63.5,139
+"Sudan",2013,63.5,149
+"Turkmenistan",2004,63.5,134
+"Botswana",2012,63.4,143
+"Kenya",2015,63.4,151
+"Sao Tome and Principe",2003,63.4,128
+"Turkmenistan",2003,63.4,129
+"Yemen",2007,63.4,135
+"Bhutan",2003,63.3,130
+"Bolivia ",2001,63.3,124
+"Ethiopia",2012,63.3,144
+"India",2002,63.3,125
+"Madagascar",2010,63.3,138
+"Turkmenistan",2005,63.3,138
+"Turkmenistan",2002,63.3,126
+"Comoros",2014,63.2,148
+"Mongolia",2001,63.2,125
+"Myanmar",2003,63.2,131
+"Nepal",2001,63.2,126
+"Pakistan",2002,63.2,127
+"Sudan",2012,63.2,145
+"Haiti",2014,63.1,149
+"Laos",2009,63.1,140
+"Mauritania",2015,63.1,152
+"Nepal",2002,63.1,128
+"Sao Tome and Principe",2002,63.1,129
+"Cambodia",2003,63,132
+"Comoros",2006,63,136
+"Djibouti",2014,63,150
+"Ghana",2008,63,136
+"Kenya",2010,63,139
+"Mauritania",2014,63,151
+"Mauritania",2003,63,133
+"Namibia",2010,63,140
+"Niger",2012,63,146
+"Pakistan",2001,63,127
+"Yemen",2006,63,137
+"Zambia",2013,63,150
+"Cambodia",2005,62.9,139
+"Comoros",2013,62.9,151
+"Congo",2011,62.9,140
+"Eritrea",2011,62.9,141
+"India",2001,62.9,128
+"Kenya",2014,62.9,152
+"Pakistan",2005,62.9,140
+"Papua New Guinea",2015,62.9,153
+"South Africa",2015,62.9,154
+"Gabon",2011,62.8,142
+"Madagascar",2009,62.8,141
+"Mongolia",2000,62.8,125
+"Myanmar",2002,62.8,130
+"Pakistan",2000,62.8,126
+"Rwanda",2010,62.8,141
+"Sao Tome and Principe",2001,62.8,129
+"Senegal",2008,62.8,137
+"Syria",2012,62.8,147
+"Djibouti",2013,62.7,152
+"Haiti",2013,62.7,153
+"Mauritania",2013,62.7,154
+"Papua New Guinea",2014,62.7,153
+"Sudan",2011,62.7,143
+"Bolivia ",2000,62.6,127
+"Ethiopia",2011,62.6,144
+"Kenya",2013,62.6,155
+"Laos",2008,62.6,138
+"Sao Tome and Principe",2000,62.6,128
+"Yemen",2005,62.6,141
+"Bhutan",2002,62.5,131
+"Comoros",2012,62.5,148
+"Haiti",2009,62.5,142
+"India",2000,62.5,129
+"Mauritania",2012,62.5,149
+"Myanmar",2001,62.5,130
+"Nepal",2000,62.5,130
+"Sudan",2010,62.5,142
+"Ghana",2015,62.4,155
+"Namibia",2009,62.4,143
+"Papua New Guinea",2013,62.4,156
+"Gabon",2010,62.3,143
+"Haiti",2012,62.3,150
+"Haiti",2011,62.3,145
+"Madagascar",2008,62.3,139
+"Timor-Leste",2004,62.3,135
+"Uganda",2015,62.3,156
+"Botswana",2011,62.2,146
+"Comoros",2011,62.2,147
+"Djibouti",2012,62.2,151
+"Mauritania",2011,62.2,148
+"Papua New Guinea",2012,62.2,152
+"Yemen",2004,62.2,136
+"Eritrea",2010,62.1,144
+"Ghana",2014,62.1,154
+"Haiti",2008,62.1,140
+"Kenya",2012,62.1,153
+"Laos",2007,62.1,136
+"Myanmar",2000,62.1,131
+"Senegal",2007,62.1,137
+"Bhutan",2000,62,132
+"Congo",2010,62,145
+"Djibouti",2008,62,141
+"Eritrea",2007,62,138
+"Gambia",2012,62,154
+"Liberia",2011,62,149
+"Mauritania",2010,62,146
+"Mauritania",2002,62,132
+"Papua New Guinea",2011,62,150
+"South Africa",2014,62,155
+"Sudan",2009,62,144
+"Timor-Leste",2002,62,133
+"Ghana",2013,61.9,157
+"Madagascar",2007,61.9,139
+"Yemen",2003,61.9,134
+"Comoros",2010,61.8,147
+"Djibouti",2011,61.8,151
+"Ethiopia",2010,61.8,148
+"Haiti",2007,61.8,140
+"Niger",2015,61.8,157
+"Papua New Guinea",2010,61.8,149
+"Sudan",2008,61.8,142
+"Tanzania",2015,61.8,158
+"Zambia",2015,61.8,159
+"Bhutan",2001,61.7,131
+"Gabon",2009,61.7,145
+"Mauritania",2009,61.7,146
+"Namibia",2008,61.7,143
+"Gabon",2008,61.6,144
+"Gabon",2007,61.6,141
+"Ghana",2012,61.6,155
+"Papua New Guinea",2009,61.6,147
+"Cambodia",2004,61.5,137
+"Laos",2006,61.5,138
+"Uganda",2014,61.5,156
+"Yemen",2002,61.5,134
+"Eritrea",2009,61.4,148
+"Gabon",2006,61.4,139
+"Liberia",2015,61.4,160
+"Madagascar",2006,61.4,140
+"Mauritania",2008,61.4,145
+"Niger",2014,61.4,157
+"Papua New Guinea",2008,61.4,146
+"Sudan",2007,61.4,142
+"Comoros",2009,61.3,149
+"Djibouti",2010,61.3,150
+"Senegal",2006,61.3,141
+"Ghana",2011,61.2,152
+"Kenya",2011,61.2,153
+"Mauritania",2007,61.2,143
+"Botswana",2010,61.1,151
+"Gambia",2015,61.1,161
+"Haiti",2006,61.1,142
+"Liberia",2013,61.1,158
+"Papua New Guinea",2007,61.1,144
+"Yemen",2001,61.1,132
+"Zambia",2014,61.1,158
+"Comoros",2008,61,147
+"Gabon",2000,61,133
+"Laos",2005,61,142
+"Mauritania",2001,61,133
+"Rwanda",2009,61,150
+"Sudan",2006,61,143
+"Timor-Leste",2003,61,135
+"Benin",2015,60,162
+"Comoros",2005,60,143
+"Mauritania",2000,60,134
+"Namibia",2007,60,145
+"Uganda",2012,60,156
+"Afghanistan",2014,59.9,159
+"Afghanistan",2013,59.9,159
+"Burkina Faso",2015,59.9,163
+"Ghana",2007,59.9,146
+"Madagascar",2003,59.9,136
+"Papua New Guinea",2004,59.9,138
+"Togo",2015,59.9,164
+"Comoros",2004,59.8,139
+"Democratic Republic of the Congo",2015,59.8,165
+"Djibouti",2007,59.8,147
+"Ethiopia",2008,59.8,148
+"Gabon",2001,59.8,134
+"Gambia",2011,59.8,154
+"Laos",2003,59.8,137
+"Benin",2014,59.7,160
+"Eritrea",2006,59.7,144
+"Gabon",2004,59.7,140
+"Gabon",2003,59.7,138
+"Gabon",2002,59.7,135
+"Haiti",2003,59.7,139
+"Liberia",2010,59.7,152
+"Senegal",2004,59.7,141
+"Sudan",2004,59.7,142
+"Tanzania",2013,59.7,160
+"Togo",2014,59.7,161
+"Burundi",2015,59.6,166
+"Comoros",2003,59.6,140
+"Papua New Guinea",2003,59.6,141
+"Rwanda",2007,59.6,148
+"Sudan",2003,59.6,142
+"Afghanistan",2012,59.5,157
+"Benin",2013,59.5,161
+"Comoros",2002,59.5,136
+"Comoros",2001,59.5,135
+"Comoros",2000,59.5,135
+"Congo",2008,59.4,149
+"Eritrea",2005,59.4,144
+"Ghana",2006,59.4,145
+"Niger",2011,59.4,155
+"Sudan",2002,59.4,137
+"Timor-Leste",2001,59.4,136
+"Togo",2013,59.4,162
+"Benin",2012,59.3,158
+"Burkina Faso",2014,59.3,162
+"Cambodia",2002,59.3,138
+"Democratic Republic of the Congo",2014,59.3,163
+"Gambia",2010,59.3,153
+"Haiti",2002,59.3,139
+"Laos",2002,59.3,140
+"Madagascar",2002,59.3,141
+"Papua New Guinea",2002,59.3,142
+"Uganda",2011,59.3,156
+"Afghanistan",2011,59.2,157
+"Botswana",2009,59.2,151
+"Liberia",2009,59.2,152
+"Myanmar",2008,59.2,150
+"South Africa",2012,59.2,159
+"Zambia",2012,59.2,160
+"Zimbabwe",2014,59.2,164
+"Benin",2011,59.1,158
+"Burundi",2014,59.1,165
+"Djibouti",2006,59.1,146
+"Eritrea",2004,59.1,143
+"Kenya",2009,59.1,153
+"Papua New Guinea",2001,59.1,137
+"Burkina Faso",2013,59,163
+"Gambia",2009,59,154
+"Guinea",2015,59,167
+"Nigeria",2008,59,151
+"Senegal",2003,59,143
+"Ghana",2005,58.9,145
+"Guinea-Bissau",2015,58.9,168
+"Haiti",2001,58.9,138
+"Papua New Guinea",2000,58.9,136
+"South Africa",2011,58.9,159
+"Sudan",2001,58.9,139
+"Swaziland",2015,58.9,169
+"Togo",2012,58.9,161
+"Afghanistan",2010,58.8,154
+"Democratic Republic of the Congo",2013,58.8,164
+"Eritrea",2003,58.8,144
+"Guinea",2013,58.8,165
+"Benin",2010,58.7,155
+"Gambia",2008,58.7,152
+"Haiti",2004,58.7,144
+"Laos",2001,58.7,140
+"Madagascar",2001,58.7,141
+"Timor-Leste",2000,58.7,137
+"Afghanistan",2009,58.6,155
+"Burkina Faso",2012,58.6,162
+"Burundi",2013,58.6,166
+"Djibouti",2005,58.6,146
+"Haiti",2000,58.6,138
+"Liberia",2008,58.6,153
+"Sudan",2000,58.6,139
+"Tanzania",2012,58.6,163
+"Cambodia",2001,58.5,142
+"Eritrea",2002,58.5,143
+"Ethiopia",2007,58.5,149
+"Gambia",2007,58.5,150
+"Benin",2009,58.4,156
+"Guinea",2012,58.4,164
+"Guinea-Bissau",2014,58.4,166
+"Senegal",2002,58.4,144
+"Swaziland",2014,58.4,167
+"Uganda",2010,58.4,156
+"Democratic Republic of the Congo",2012,58.3,165
+"Ghana",2004,58.3,145
+"Malawi",2015,58.3,170
+"Tanzania",2011,58.3,160
+"Togo",2011,58.3,161
+"Congo",2007,58.2,151
+"Equatorial Guinea",2015,58.2,171
+"Gambia",2006,58.2,147
+"Mali",2015,58.2,172
+"Niger",2010,58.2,157
+"Zambia",2011,58.2,162
+"Afghanistan",2008,58.1,154
+"Burkina Faso",2011,58.1,163
+"Djibouti",2004,58.1,146
+"Eritrea",2001,58.1,143
+"Guinea",2014,58.1,168
+"Guinea",2011,58.1,164
+"Guinea-Bissau",2013,58.1,167
+"Laos",2000,58.1,140
+"Liberia",2014,58.1,169
+"Burundi",2012,58,166
+"Burundi",2000,58,141
+"Central African Rep.",2014,58,170
+"Djibouti",2003,58,145
+"Mozambique",2005,58,147
+"Somalia",2002,58,145
+"South Africa",2010,58,158
+"South Sudan",2003,58,146
+"Tanzania",2003,58,147
+"Zambia",2010,58,159
+"Zambia",2006,58,148
+"Zimbabwe",2013,58,168
+"Democratic Republic of the Congo",2011,57.9,165
+"Djibouti",2002,57.9,146
+"Equatorial Guinea",2014,57.9,171
+"Ghana",2003,57.9,148
+"Kenya",2008,57.9,155
+"Liberia",2007,57.9,152
+"Madagascar",2000,57.9,142
+"Senegal",2001,57.9,144
+"Guinea",2010,57.8,160
+"Mali",2014,57.8,172
+"Cambodia",2000,57.7,143
+"Djibouti",2001,57.7,145
+"Gambia",2005,57.7,148
+"Benin",2008,57.6,156
+"Ghana",2002,57.6,147
+"Guinea-Bissau",2012,57.6,167
+"Malawi",2014,57.6,173
+"Mozambique",2015,57.6,173
+"Rwanda",2006,57.6,149
+"Swaziland",2013,57.6,169
+"Afghanistan",2007,57.5,153
+"Botswana",2008,57.5,157
+"Burkina Faso",2010,57.5,161
+"Senegal",2000,57.5,144
+"Tanzania",2010,57.5,162
+"Uganda",2009,57.5,157
+"Burundi",2011,57.4,166
+"Democratic Republic of the Congo",2010,57.4,163
+"Djibouti",2000,57.4,145
+"Equatorial Guinea",2013,57.4,170
+"Ghana",2001,57.4,146
+"Namibia",2000,57.4,146
+"Togo",2010,57.4,164
+"Zambia",2009,57.4,158
+"Afghanistan",2006,57.3,150
+"Afghanistan",2005,57.3,149
+"Cameroon",2015,57.3,174
+"Gambia",2004,57.3,147
+"Guinea",2009,57.3,159
+"Mali",2013,57.3,171
+"South Africa",2000,57.3,147
+"South Sudan",2015,57.3,175
+"Ethiopia",2006,57.2,151
+"Ghana",2000,57.2,148
+"Mali",2012,57.2,168
+"Benin",2007,57.1,154
+"Guinea-Bissau",2011,57.1,167
+"Niger",2009,57.1,160
+"Afghanistan",2004,57,148
+"Chad",2009,57,161
+"Gambia",2003,57,149
+"Namibia",2006,57,152
+"Rwanda",2002,57,148
+"Somalia",2001,57,147
+"Botswana",2007,56.9,155
+"Burkina Faso",2009,56.9,162
+"Congo",2006,56.9,153
+"Tanzania",2009,56.9,163
+"Benin",2006,56.8,154
+"Burundi",2010,56.8,165
+"Guinea",2008,56.8,158
+"Kenya",2007,56.8,156
+"Mali",2011,56.8,168
+"Afghanistan",2003,56.7,150
+"Cameroon",2014,56.7,174
+"Democratic Republic of the Congo",2009,56.7,164
+"Equatorial Guinea",2012,56.7,169
+"Guinea-Bissau",2010,56.7,166
+"Liberia",2006,56.7,155
+"Malawi",2013,56.7,172
+"Mozambique",2014,56.7,175
+"Togo",2009,56.7,165
+"Gambia",2002,56.6,149
+"South Sudan",2014,56.6,176
+"Zimbabwe",2012,56.6,170
+"Benin",2005,56.5,150
+"Mali",2010,56.5,167
+"Namibia",2001,56.5,148
+"South Africa",2009,56.5,166
+"Swaziland",2012,56.5,171
+"Cameroon",2013,56.4,173
+"Guinea",2007,56.4,157
+"South Sudan",2013,56.4,174
+"Democratic Republic of the Congo",2008,56.3,159
+"Gambia",2001,56.3,149
+"Guinea-Bissau",2009,56.3,167
+"Uganda",2008,56.3,160
+"Afghanistan",2002,56.2,150
+"Burundi",2009,56.2,168
+"Equatorial Guinea",2011,56.2,169
+"Tanzania",2008,56.2,161
+"Togo",2008,56.2,162
+"Benin",2004,56.1,149
+"Burkina Faso",2008,56.1,163
+"Equatorial Guinea",2010,56.1,168
+"Angola",2012,56,172
+"Burkina Faso",2001,56,150
+"Ethiopia",2005,56,151
+"Liberia",2002,56,151
+"Mali",2009,56,169
+"Niger",2008,56,164
+"Niger",2001,56,151
+"South Africa",2001,56,152
+"South Sudan",2012,56,173
+"Cameroon",2012,55.9,174
+"Gambia",2000,55.9,149
+"Togo",2007,55.9,158
+"Benin",2003,55.8,151
+"Democratic Republic of the Congo",2007,55.7,159
+"Equatorial Guinea",2009,55.7,170
+"Namibia",2002,55.7,152
+"Togo",2006,55.7,156
+"Zambia",2008,55.7,165
+"Benin",2002,55.6,153
+"Cameroon",2011,55.6,170
+"Guinea",2006,55.6,157
+"Guinea-Bissau",2008,55.6,166
+"Benin",2001,55.5,153
+"Mali",2008,55.5,167
+"Uganda",2007,55.5,160
+"Benin",2000,55.4,150
+"Equatorial Guinea",2008,55.4,168
+"South Sudan",2011,55.4,171
+"Afghanistan",2001,55.3,154
+"Burkina Faso",2007,55.3,161
+"Burundi",2008,55.3,169
+"Cameroon",2010,55.3,169
+"Congo",2005,55.3,152
+"Kenya",2006,55.3,158
+"Liberia",2005,55.3,153
+"Malawi",2012,55.3,175
+"Mozambique",2013,55.3,175
+"Rwanda",2005,55.3,154
+"South Africa",2008,55.3,170
+"Niger",2007,55.2,162
+"Namibia",2005,55.1,155
+"Democratic Republic of the Congo",2006,55,159
+"Equatorial Guinea",2007,55,163
+"Ethiopia",2004,55,150
+"Guinea-Bissau",2007,55,164
+"Mali",2007,55,165
+"Mali",2001,55,155
+"Namibia",2003,55,152
+"Nigeria",2007,55,166
+"Somalia",2015,55,176
+"Somalia",2000,55,151
+"South Sudan",2010,55,170
+"Swaziland",2011,55,172
+"Togo",2005,55,156
+"South Africa",2002,54.9,154
+"Togo",2004,54.9,151
+"Uganda",2006,54.9,160
+"Zimbabwe",2011,54.9,173
+"Afghanistan",2000,54.8,152
+"Botswana",2006,54.8,161
+"Burundi",2007,54.8,167
+"Cameroon",2009,54.8,171
+"Equatorial Guinea",2006,54.8,162
+"Mozambique",2012,54.8,176
+"Guinea",2005,54.7,157
+"Namibia",2004,54.7,152
+"Togo",2003,54.7,153
+"Togo",2002,54.7,155
+"Togo",2001,54.6,156
+"Togo",2000,54.6,153
+"Niger",2006,54.5,163
+"Nigeria",2015,54.5,177
+"South Africa",2007,54.5,168
+"Tanzania",2007,54.5,169
+"Equatorial Guinea",2005,54.4,158
+"Guinea-Bissau",2006,54.4,164
+"Burkina Faso",2006,54.3,165
+"Democratic Republic of the Congo",2005,54.3,159
+"Mali",2006,54.3,166
+"Mozambique",2011,54.3,174
+"Somalia",2014,54.3,177
+"South Sudan",2009,54.3,172
+"Cameroon",2008,54.2,171
+"Somalia",2013,54.2,176
+"Burundi",2006,54.1,167
+"Congo",2004,54.1,153
+"Equatorial Guinea",2004,54.1,154
+"Kenya",2005,54.1,160
+"Malawi",2011,54.1,175
+"Côte d'Ivoire",2008,54,172
+"Ethiopia",2003,54,154
+"Guinea",2004,54,155
+"Liberia",2004,54,156
+"Mozambique",2010,54,171
+"Mozambique",2004,54,157
+"Sierra Leone",2013,54,177
+"South Africa",2006,54,168
+"South Africa",2003,54,155
+"Guinea-Bissau",2005,53.9,161
+"Equatorial Guinea",2003,53.8,156
+"Mozambique",2009,53.8,173
+"South Africa",2005,53.8,162
+"Lesotho",2015,53.7,178
+"Niger",2005,53.7,163
+"South Africa",2004,53.7,158
+"Cameroon",2007,53.6,170
+"Mali",2005,53.6,164
+"Nigeria",2014,53.6,178
+"South Sudan",2008,53.6,173
+"Swaziland",2010,53.6,172
+"Democratic Republic of the Congo",2004,53.5,159
+"Equatorial Guinea",2002,53.5,156
+"Guinea-Bissau",2004,53.5,160
+"Burundi",2005,53.4,165
+"Rwanda",2004,53.4,161
+"Burkina Faso",2005,53.3,166
+"Côte d'Ivoire",2015,53.3,179
+"Cameroon",2006,53.3,169
+"Guinea",2003,53.3,157
+"Congo",2003,53.2,158
+"Ethiopia",2002,53.2,157
+"Mozambique",2008,53.2,174
+"Nigeria",2013,53.2,178
+"Uganda",2005,53.2,167
+"Chad",2015,53.1,180
+"Equatorial Guinea",2001,53.1,157
+"Somalia",2012,53.1,177
+"Somalia",2011,53.1,176
+"South Sudan",2007,53.1,171
+"Tanzania",2006,53.1,170
+"Central African Rep.",2012,53,178
+"Guinea-Bissau",2003,53,159
+"Kenya",2004,53,162
+"Congo",2000,52.9,154
+"Guinea",2002,52.9,158
+"Malawi",2010,52.9,173
+"Niger",2004,52.9,163
+"Côte d'Ivoire",2014,52.8,179
+"Cameroon",2005,52.8,168
+"Democratic Republic of the Congo",2003,52.8,160
+"Guinea-Bissau",2002,52.8,159
+"Mali",2004,52.8,164
+"Congo",2001,52.7,158
+"Equatorial Guinea",2000,52.7,155
+"Nigeria",2012,52.7,179
+"Burundi",2004,52.6,165
+"Chad",2014,52.6,180
+"Congo",2002,52.6,160
+"Swaziland",2009,52.6,174
+"Zambia",2007,52.6,172
+"Central African Rep.",2015,52.5,181
+"Ethiopia",2001,52.5,159
+"Guinea",2001,52.5,160
+"Guinea",2000,52.5,156
+"Guinea-Bissau",2001,52.5,161
+"South Sudan",2006,52.5,171
+"Angola",2015,52.4,182
+"Burkina Faso",2004,52.4,166
+"Kenya",2003,52.4,161
+"Somalia",2010,52.4,174
+"Zimbabwe",2010,52.4,175
+"Côte d'Ivoire",2013,52.3,179
+"Lesotho",2011,52.3,177
+"Nigeria",2011,52.3,178
+"Chad",2013,52.2,180
+"Lesotho",2012,52.2,180
+"Somalia",2009,52.2,175
+"Tanzania",2005,52.2,169
+"Cameroon",2004,52.1,167
+"Democratic Republic of the Congo",2002,52.1,161
+"Guinea-Bissau",2000,52.1,157
+"Kenya",2002,52.1,162
+"Lesotho",2014,52.1,181
+"Lesotho",2013,52.1,181
+"Mozambique",2007,52.1,173
+"Niger",2003,52.1,162
+"Côte d'Ivoire",2012,52,181
+"Mali",2003,52,163
+"Nigeria",2010,52,176
+"Rwanda",2003,52,164
+"South Sudan",2002,52,163
+"Tanzania",2002,52,164
+"Burundi",2003,51.9,165
+"Kenya",2001,51.9,162
+"Kenya",2000,51.9,158
+"Liberia",2000,51.9,159
+"Somalia",2008,51.9,175
+"South Sudan",2005,51.9,170
+"Cameroon",2003,51.8,166
+"Chad",2012,51.8,182
+"Democratic Republic of the Congo",2001,51.8,163
+"Angola",2014,51.7,182
+"Botswana",2005,51.7,171
+"Côte d'Ivoire",2011,51.7,179
+"Burkina Faso",2003,51.6,167
+"Cameroon",2002,51.6,165
+"Chad",2011,51.6,180
+"Nigeria",2009,51.6,176
+"Somalia",2005,51.6,172
+"Burundi",2002,51.5,166
+"Côte d'Ivoire",2010,51.5,177
+"Cameroon",2001,51.5,164
+"Liberia",2001,51.5,165
+"Malawi",2009,51.5,177
+"Somalia",2007,51.5,174
+"Somalia",2006,51.5,172
+"Tanzania",2004,51.5,168
+"Cameroon",2000,51.4,160
+"Niger",2002,51.4,167
+"South Sudan",2004,51.4,169
+"Swaziland",2008,51.4,176
+"Burundi",2001,51.3,166
+"Democratic Republic of the Congo",2000,51.3,161
+"Uganda",2004,51.3,170
+"Chad",2010,51.2,178
+"Ethiopia",2000,51.2,162
+"Mali",2002,51.2,168
+"Mozambique",2006,51.2,173
+"Somalia",2004,51.2,171
+"Angola",2013,51.1,182
+"Lesotho",2010,51.1,179
+"Somalia",2003,51.1,168
+"Angola",2011,51,181
+"Burkina Faso",2002,51,169
+"Burkina Faso",2000,51,163
+"Côte d'Ivoire",2009,51,178
+"Mozambique",2003,51,169
+"Sierra Leone",2015,51,183
+"Uganda",2003,51,170
+"Liberia",2003,50,171
+"Malawi",2008,50,177
+"Niger",2000,50,164
+"Swaziland",2007,50,175
+"Zimbabwe",2009,50,179
+"Côte d'Ivoire",2007,49.9,176
+"Central African Rep.",2013,49.9,183
+"Central African Rep.",2011,49.8,182
+"Mali",2000,49.8,165
+"Mozambique",2002,49.8,170
+"Nigeria",2006,49.8,174
+"Sierra Leone",2012,49.7,183
+"Angola",2010,49.6,180
+"Chad",2008,49.6,178
+"South Sudan",2001,49.6,167
+"Tanzania",2001,49.6,168
+"Mozambique",2001,49.5,169
+"Côte d'Ivoire",2006,49.4,175
+"Chad",2007,49.4,177
+"Lesotho",2009,49.4,180
+"Lesotho",2000,49.3,166
+"Zambia",2005,49.3,173
+"Central African Rep.",2010,49.2,181
+"Nigeria",2005,49.2,174
+"Tanzania",2000,49.2,167
+"Angola",2009,49.1,181
+"Mozambique",2000,49,168
+"Sierra Leone",2011,48.9,183
+"South Sudan",2000,48.9,169
+"Uganda",2002,48.8,171
+"Angola",2008,48.7,179
+"Côte d'Ivoire",2005,48.7,175
+"Central African Rep.",2009,48.6,182
+"Chad",2005,48.6,176
+"Rwanda",2001,48.6,170
+"Chad",2006,48.5,176
+"Chad",2004,48.5,172
+"Malawi",2007,48.5,178
+"Nigeria",2004,48.5,173
+"Chad",2003,48.4,172
+"Swaziland",2000,48.4,170
+"Rwanda",2000,48.3,171
+"Angola",2007,48.2,179
+"Côte d'Ivoire",2004,48.2,174
+"Zimbabwe",2008,48.2,180
+"Botswana",2004,48.1,175
+"Chad",2002,48.1,172
+"Nigeria",2003,48.1,173
+"Sierra Leone",2014,48.1,183
+"Sierra Leone",2010,48.1,182
+"Côte d'Ivoire",2003,48,174
+"Chad",2001,48,171
+"Sierra Leone",2002,48,173
+"Côte d'Ivoire",2000,47.9,172
+"Zambia",2004,47.9,176
+"Botswana",2000,47.8,173
+"Côte d'Ivoire",2001,47.8,172
+"Lesotho",2008,47.8,181
+"Lesotho",2001,47.8,173
+"Swaziland",2006,47.8,177
+"Angola",2006,47.7,178
+"Côte d'Ivoire",2002,47.7,174
+"Nigeria",2002,47.7,175
+"Uganda",2001,47.7,174
+"Central African Rep.",2008,47.6,182
+"Chad",2000,47.6,174
+"Angola",2005,47.4,177
+"Nigeria",2001,47.4,175
+"Angola",2004,47.1,177
+"Malawi",2006,47.1,179
+"Nigeria",2000,47.1,175
+"Sierra Leone",2009,47.1,183
+"Swaziland",2001,47.1,176
+"Angola",2003,46.8,175
+"Central African Rep.",2007,46.8,180
+"Botswana",2001,46.7,177
+"Uganda",2000,46.6,176
+"Zimbabwe",2007,46.6,181
+"Angola",2002,46.5,176
+"Botswana",2003,46.4,176
+"Lesotho",2002,46.4,177
+"Swaziland",2002,46.4,178
+"Zambia",2003,46.4,177
+"Central African Rep.",2006,46.3,180
+"Lesotho",2007,46.2,182
+"Sierra Leone",2008,46.2,183
+"Botswana",2002,46,179
+"Central African Rep.",2000,46,177
+"Malawi",2005,46,178
+"Swaziland",2005,46,179
+"Zimbabwe",2000,46,178
+"Central African Rep.",2005,45.9,180
+"Swaziland",2003,45.9,178
+"Angola",2001,45.7,178
+"Central African Rep.",2004,45.7,178
+"Central African Rep.",2003,45.7,179
+"Central African Rep.",2002,45.6,180
+"Central African Rep.",2001,45.6,179
+"Swaziland",2004,45.6,179
+"Lesotho",2003,45.5,180
+"Zambia",2002,45.5,181
+"Zimbabwe",2006,45.4,181
+"Angola",2000,45.3,179
+"Eritrea",2000,45.3,180
+"Lesotho",2006,45.3,182
+"Sierra Leone",2007,45.3,183
+"Zimbabwe",2001,45.3,180
+"Malawi",2004,45.1,180
+"Lesotho",2004,44.8,181
+"Zimbabwe",2002,44.8,182
+"Malawi",2003,44.6,181
+"Zambia",2001,44.6,181
+"Zimbabwe",2005,44.6,181
+"Lesotho",2005,44.5,182
+"Zimbabwe",2003,44.5,182
+"Sierra Leone",2006,44.3,183
+"Zimbabwe",2004,44.3,182
+"Malawi",2002,44,183
+"Zambia",2000,43.8,181
+"Malawi",2001,43.5,182
+"Sierra Leone",2005,43.3,183
+"Malawi",2000,43.1,182
+"Sierra Leone",2004,42.3,183
+"Sierra Leone",2003,41.5,183
+"Sierra Leone",2001,41,183
+"Sierra Leone",2000,39,183
+"Haiti",2010,36.3,183
+"Cook Islands",2013,NA,184
+"Dominica",2013,NA,185
+"Marshall Islands",2013,NA,186
+"Monaco",2013,NA,187
+"Nauru",2013,NA,188
+"Niue",2013,NA,189
+"Palau",2013,NA,190
+"Saint Kitts and Nevis",2013,NA,191
+"San Marino",2013,NA,192
+"Tuvalu",2013,NA,193
