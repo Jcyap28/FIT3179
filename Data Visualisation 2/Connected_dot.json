@@ -1,0 +1,48 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A ranged dot plot that uses 'layer' to convey changing life expectancy for the five most populous countries (between 1955 and 2000).",
+  "width": 400,
+  "height": 350,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/Continent_rank.csv"
+  },
+  "transform": [{"filter": {"field": "Year", "oneOf": [2000, 2015]}}],
+  "encoding": {
+    "x": {
+      "field": "Average_Life_Expectancy",
+      "type": "quantitative",
+      "title": "Average Life Expectancy",
+      "axis": {"tickCount": 3},
+      "scale": {"type": "linear", "domain": [0, 80]}
+    },
+    "y": {
+      "field": "Continent",
+      "type": "nominal",
+      "title": "Continent",
+      "axis": {"offset": 10, "ticks": false, "minExtent": 70, "domain": false}
+    }
+  },
+  "layer": [
+    {
+      "mark": "line",
+      "encoding": {
+        "detail": {"field": "Continent", "type": "nominal"},
+        "color": {"value": "#c7e9c0"}
+      }
+    },
+    {
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "color": {
+          "field": "Year",
+          "type": "ordinal",
+          "scale": {"domain": [2000, 2015], "range": ["#74c476", "#006d2c"]},
+          "title": "Year"
+        },
+        "size": {"value": 100},
+        "opacity": {"value": 1}
+      }
+    }
+  ],
+  "config": {}
+}

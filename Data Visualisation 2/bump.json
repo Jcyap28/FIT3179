@@ -1,0 +1,87 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Continent Ranking Based On Life Expectancy",
+    "frame": "bounds"
+  },
+  "width": 500,
+  "height": 260,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/Continent_rank.csv"
+  },
+  "params": [
+    {
+      "name": "rank",
+      "value": 7,
+      "bind": {"input": "range", "min": 3, "max": 7, "step": 1, "name": "Top: "}
+    }
+  ],
+  "transform": [
+    {
+      "sort": [{"field": "Average_Life_Expectancy", "order": "descending"}],
+      "window": [{"op": "rank", "as": "rank"}],
+      "groupby": ["Year"]
+    },
+    {"filter": "rank == null || datum.rank <= rank"}
+  ],
+  "layer": [
+    {
+      "selection": {
+        "continent_highlight": {
+          "type": "multi",
+          "fields": ["Continent"],
+          "bind": "legend"
+        }
+      },
+      "mark": {"type": "line", "orient": "vertical"},
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"field": "rank", "type": "ordinal", "title": "Rank"},
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Asia/Europe",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#FF5733",
+              "#FFA400",
+              "#A0FF88",
+              "#80A4FF",
+              "#C880FF",
+              "#FF80B4",
+              "#A07A33"
+            ]
+          }
+        },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 1},
+          "value": 0.2
+        },
+        "tooltip": [
+          {"field": "Continent", "type": "nominal"},
+          {
+            "field": "rank",
+            "type": "quantitative",
+            "title": "Ranking",
+            "format": ","
+          },
+          {
+            "field": "Average_Life_Expectancy",
+            "type": "quantitative",
+            "title": "Average Life Expectancy",
+            "format": ".2s"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}

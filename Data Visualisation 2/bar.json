@@ -1,0 +1,113 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/Continent_rank.csv"},
+  "width": 440,
+  "height": 380,
+  "title": "Life Expectancy For Each Continent",
+  "params": [
+    {
+      "name": "Year",
+      "value": 2000,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2015,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "Year == null || datum.Year == Year"}
+  ],
+  "layer": [
+    {
+      "selection": {
+        "continent_highlight": {
+          "type": "multi",
+          "fields": ["Continent"],
+          "bind": "legend"
+        }
+      },
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "Average_Life_Expectancy", "type": "quantitative",
+          "title": "Life Expectancy","scale": {"type": "linear", "domain": [0, 85]},
+          "axis": {"tickCount": 7}
+        },
+        "y": {"field": "Continent", "type": "ordinal"},
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Asia/Europe",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#FF5733",
+              "#FFA400",
+              "#A0FF88",
+              "#80A4FF",
+              "#C880FF",
+              "#FF80B4",
+              "#A07A33"
+            ]
+          }
+        },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 1},
+          "value": 0.2
+        },
+        "tooltip": [
+          {"field": "Continent", "type": "nominal"},
+          {
+            "field": "Year",
+            "type": "quantitative",
+            "title": "Year",
+            "format": ","
+          },
+          {
+            "field": "Average_Life_Expectancy",
+            "type": "quantitative",
+            "title": "Life Expectancy",
+            "format": ".2s"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "red"},
+      "encoding": {
+        "x": {
+          "aggregate": "average",
+          "field": "Average_Life_Expectancy",
+          "type": "quantitative"
+        },
+        "size": {"value": 3}
+      },
+      "tooltip":[
+        {
+          "field": "Average_Life_Expectancy",
+            "type": "quantitative",
+            "title": "Life Expectancy",
+            "format": ".2s"
+        }
+      ]
+    },
+    {
+       "mark": {"type": "text","dy":-10,"fontSize": 15},
+      "encoding": {"x": {
+          "aggregate": "average",
+          "field": "Average_Life_Expectancy",
+          "type": "quantitative"
+        },"text": {"value": "Mean"},"color": {"value": "red"},"angle":{"value":90}}
+    }
+  ]
+}

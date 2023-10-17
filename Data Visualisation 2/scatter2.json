@@ -1,0 +1,167 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 480,
+  "height": 390,
+  "title": "Life expectancy based on Number of years of Schooling",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/Life_Expectancy_Data.csv"
+  },
+  "params": [
+    {
+      "name": "Continent_selection",
+      "value": null,
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Africa",
+          "Asia",
+          "Asia/Europe",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "labels": [
+          "Show All",
+          "Africa",
+          "Asia",
+          "Asia/Europe",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "name": "Continent Selection: "
+      }
+    },
+    {
+      "name": "Year",
+      "value": 2000,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2015,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "Year == null || datum.Year == Year"},
+    {
+      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 80,
+        "x": 240,
+        "y": 180,
+        "opacity": 0.06,
+        "color": "#e1e1e1d3"
+      },
+      "encoding": {"text": {"field": "Year"}}
+    },
+    {
+      "mark": "circle",
+      "encoding": {
+        "x": {
+          "field": "Schooling",
+          "type": "quantitative",
+          "title": "Number of years of Schooling",
+          "axis": {"tickCount": 6, "grid": false},
+          "scale": {"type": "linear", "domain": [0, 25]}
+        },
+        "y": {
+          "field": "Life_expectancy",
+          "type": "quantitative",
+          "title": "Life expectancy",
+          "axis": {"tickCount": 6, "grid": false},
+          "scale": {"type": "linear", "domain": [0, 100]}
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Asia/Europe",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#FF5733",
+              "#FFA400",
+              "#A0FF88",
+              "#80A4FF",
+              "#C880FF",
+              "#FF80B4",
+              "#A07A33"
+            ]
+          }
+        },
+        "size": {
+          "field": "Adult_Mortality",
+          "type": "quantitative",
+          "title": "Adult Mortality",
+          "scale": {
+            "type": "threshold",
+            "domain": [100, 300, 600],
+            "range": [50, 150, 300, 500]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "tooltip": [
+          {"field": "Continent", "type": "nominal"},
+          {"field": "Country", "type": "nominal"},
+          {
+            "field": "Life_expectancy",
+            "type": "quantitative",
+            "title": "Life expectancy",
+            "format": ","
+          },
+          {
+            "field": "Schooling",
+            "type": "quantitative",
+            "title": "Number of years of Schooling",
+            "format": ","
+          },
+          {
+            "field": "Adult_Mortality",
+            "type": "quantitative",
+            "title": "Adult Mortality",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "mark": {"type": "text", "dx": 150, "dy": -50, "fontSize": 13},
+      "encoding": {
+        "text": {"value": "Number of years of"},
+        "color": {"value": "black"}
+      }
+    },
+    {
+      "mark": {"type": "text", "dx": 150, "dy": -35, "fontSize": 13},
+      "encoding": {
+        "text": {"value": "Schooling and Life Expectancy"},
+        "color": {"value": "black"}
+      }
+    },
+    {
+      "mark": {"type": "text", "dx": 150, "dy": -20, "fontSize": 13},
+      "encoding": {
+        "text": {"value": "have positive correlation"},
+        "color": {"value": "black"}
+      }
+    }
+  ],
+  "config": {}
+}

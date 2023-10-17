@@ -1,22 +1,42 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Life expectancy at Year 2000",
-  "width": 700,
+  "width": 850,
   "height": 400,
-  "data": {
-    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/ne_110m%20(1).json",
-    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2010,
+      "bind": {
+        "input": "range",
+        "min": 2010,
+        "max": 2015,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "equalEarth"
   },
-  "projection": {"type": "equalEarth"},
   "layer": [
     {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/ne_110m%20(1).json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "projection": {"type": "equalEarth"},
       "transform": [
         {
           "calculate": "'Data is not available in ' + datum.properties.NAME",
           "as": "note"
         }
       ],
-      "mark": {"type": "geoshape", "fill": "lightgrey", "stroke": "black"},
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgrey",
+        "stroke": "white",
+        "strokeWidth": 1
+      },
       "encoding": {"tooltip": {"field": "note"}}
     },
     {
@@ -34,23 +54,30 @@
       "mark": {"type": "geoshape", "fill": null, "stroke": "lightgrey"}
     },
     {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/Life%20Expectancy%20Data.csv"
+      },
       "transform": [
         {
-          "lookup": "properties.NAME",
+          "lookup": "Country",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/Life%20Expectancy%20Data.csv"
+              "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/ne_110m%20(1).json",
+              "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
             },
-            "key": "Country",
-            "fields": ["Life expectancy "]
-          }
-        }
+            "key": "properties.NAME"
+          },
+          "as": "geo"
+        },
+        {"filter": "datum.Year == Year_selection"}
       ],
-      "mark": {"type": "geoshape"},
+      "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.7},
       "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
         "color": {
           "field": "Life expectancy ",
           "type": "quantitative",
+          "title": "Life Expectancy",
           "scale": {
             "type": "threshold",
             "domain": [50, 55, 60, 65, 70, 75, 80],
@@ -64,25 +91,20 @@
               "#238443",
               "#005a32"
             ]
-          }
+          },
+          "legend": {"format": ".2s"}
         },
         "tooltip": [
-          {
-            "field": "properties.NAME",
-            "type": "nominal",
-            "title": "Country : "
-          },
+          {"field": "Country", "type": "nominal", "title": "Country"},
           {
             "field": "Life expectancy ",
             "type": "quantitative",
-            "title": "Life expectancy"
-          }
+            "title": "Life Expectancy",
+            "format": ","
+          },
+          {"field": "Year", "type": "quantitative", "title": "Year"}
         ]
       }
-    },
-    {
-      "mark": {"type": "text", "dx": 50, "dy": 100, "fontSize": 10},
-      "encoding": {"text": {"value": "gay"}}
     }
   ],
   "config": {}

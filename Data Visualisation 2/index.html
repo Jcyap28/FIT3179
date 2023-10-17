@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html>
+  <style>
+    /* Set the size of the entire web page (body) */
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center; /* Center content horizontally */
+      height: 100vh; /* 100% viewport height for vertical centering */
+    }
 
+    /* Style the visual containers */
+    .vis-container {
+      width: 100%; /* Make the container 100% width */
+      max-width: 1000px; /* Set a maximum width for the container */
+    }
+
+  </style>
 <head>
-  <title>Multiple Visualisations | An Example</title>
+  <title>Unlocking the Secrets of a Longer Life</title>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
@@ -21,101 +36,228 @@
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 
+  <style>
+    body {
+      background-image: url('https://images.template.net/97252/sage-green-background-0un6c.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      
+    }
+
+  </style>
 
 </head>
 
 <body>
 
-  <div class="page">
-
-    <!-- pure grid group -->
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <h1>World life expectancy</h1>
-        <p>World life expectancy is a critical metric reflecting the average number of years an individual can expect to live, and it serves as an essential indicator of a population's overall health and well-being. As of my last knowledge update in September 2021, the global average life expectancy was approximately 72-73 years. This statistic is not uniform worldwide, exhibiting significant regional disparities influenced by various factors.</p>
-      </div>
-    </div>
-    <!-- end pure grid group -->
-
-    <!-- pure grid group -->
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <h2>Life expectancy for each country from 2000-2015</h2>
-        <p> From the map idioms, we can see that Europe country has higher life expectancy. </p>
-      </div>
-    </div>
-    <div class="pure-u-1-1" style="width: 50%;">
-       <div id="vis1" class="vis-container" style="margin-right: 20px;"></div>
-    </div>
-    
-    <!-- end pure grid group -->
-
-    <!-- pure grid group -->
-    <div class="pure-g">
-      
-      <div class="pure-u-1-5">
-        <div class="description description-right">
-          <h2>Does GDP and Life expectancy have any correlation?</h2>
-          <p>The bubble plot shows that they have a positive correlation.</p>
-        </div>
-      </div>
-      <div class="pure-u-2-3">
-        <div id="vis2" class="vis-container"></div>
-      </div>
-    </div>
   <!-- pure grid group -->
-    <div class="pure-g">
-      
-      <div class="pure-u-1-5">
-        <div class="description description-right">
-          <h2>Country Status?</h2>
-          <p>From the donut chart, most of the country is still developing</p>
-        </div>
+  <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1>Unlocking the Secrets of a Longer Life</h1>
       </div>
-      <div class="pure-u-2-3">
-        <div id="vis3" class="vis-container"></div>
+  </div>
+
+  <div class="pure-u-2-3">
+    <div clas = 'description-middle-2'>
+      <h2>What Is Life Expectancy?</h2>
+    </div>
+    <div clas = 'description-middle'>
+        <p><span style="color: darkgreen; font-weight: bold;">Life expectancy</span> is the average number of years a 
+        person or population is expected to live and is a crucial metric 
+        for assessing <span style="color: darkgreen; font-weight: bold;">overall health and well-being</span>. It's influenced by 
+        factors like healthcare access, socioeconomic status, genetics, 
+        lifestyle choices, and public health measures. Improvements in these 
+        areas have contributed to increased life expectancies in many regions, 
+        highlighting the significance of 
+        addressing these determinants for <span style="color: darkgreen; font-weight: bold;">healthier and longer lives</span>. </p>
+    </div>
+  </div>
+  
+  <!-- map -->
+  <div class="pure-u-2-3">
+    <div clas = 'description-middle'>
+      <h2>World Life Expectancy (2000-2015)</h2>
+    </div>
+  </div>
+  <div>
+    <div id="vis2" class="vis-container"></div>
+  </div>
+    <div class="pure-u-2-3">
+      <div clas = 'description-middle'>
+        <p><span style="color: darkgreen; font-weight: bold;">Life expectancy</span> varies significantly among countries, 
+          with the highest recorded at around 85 years and the 
+          lowest at approximately 50 years. The map illustrates a 
+          gradual <span style="color: darkgreen; font-weight: bold;">increase in life expectancy</span> from 2000 to 2015. 
+          Despite this upward trend, Africa has consistently displayed the 
+          lowest life expectancy among continents due to a combination of 
+          factors such as prevalent infectious diseases, limited healthcare access, 
+          and socio-economic hurdles. Within Asia, Japan stands out with the highest 
+          life expectancy. However, regions in <span style="color: darkgreen; font-weight: bold;">America and Europe</span> 
+          surpass these figures with notably higher life expectancies. <p>
       </div>
     </div>
-  <!-- pure grid group -->
+  </div>
+  
+  <!-- bar -->
+  <div class="pure-u-2-3">
+    <div clas = 'description-middle'>
+      <h2>Life Expectancy For Each Continent (2000-2015)</h2>
+    </div>
+
     <div class="pure-g">
-      
-      <div class="pure-u-1-5">
-        <div class="description description-right">
-          <h2>Life expectancy for 8 of the countries each year.</h2></h2>
-          <p>The average life expectancy is 70. From the line chart, there is 2 countries that have GDP lesser than the average which is Madi and Angola.</p>
-        </div>
-      </div>
-      <div class="pure-u-2-3">
+      <div class="pure-u-1-2">
         <div id="vis4" class="vis-container"></div>
       </div>
-    </div>
-    
-  <!-- pure grid group -->
-    <div class="pure-g">
-      
-      <div class="pure-u-1-5">
+      <div class="pure-u-1-2">
         <div class="description description-right">
-          <h2>Historam of world BMI</h2>
-          <p>The highest range of BMI is 50-60.</p>
+          <p>Now, let's take a closer look at <span style="color: darkgreen; font-weight: bold;">life expectancy</span> by 
+            comparing it across continents. The bar chart reveals 
+            that, from 2000 to 2015,<span style="color: darkgreen; font-weight: bold;">most continents exceed the mean 
+              life expectancy</span> value which is at around 70 years, except for Africa. Consequently, 
+            WHO needs to prioritize targeted interventions in African 
+            regions to address the disparities.
+            Additionally, these disparities in life expectancy emphasize the importance 
+            of addressing healthcare accessibility, socio-economic development, and 
+            disease prevention in African nations. By focusing on these key areas, we 
+            can work towards reducing the gaps in life expectancy and improving the well-being 
+            of populations across the continent. 
+          </p>
         </div>
       </div>
-      <div class="pure-u-2-3">
-        <div id="vis5" class="vis-container"></div>
+    </div>
+  </div>
+
+  <!-- bump-->
+  <div class="pure-u-2-3">
+    <div clas = 'description-middle'>
+      <h2>Continent's Ranking Based on Life Expectancy </h2>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="vis6" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>Let's compare the continents using the bump chart. 
+            <span style="color: darkgreen; font-weight: bold;">Europe consistently maintains the top position</span> throughout 
+            the years, with North America and South America following 
+            closely in second and third place. However, it's noteworthy 
+            that North and South America occasionally swap their rankings 
+            during this period. Unfortunately, Africa consistently holds the 
+            lowest position from 2000 to 2015. In conclusion, Europe has the
+            highest life expectancy, while africa has the lowest
+            life expectancy compare to other continents throughout the year.
+        </p>
+        </div>
       </div>
     </div>
+  </div>
+
+
+  <!-- scatter-->
+  <div class="pure-u-2-3">
+    <div clas = 'description-middle'>
+      <h2>Effect of Income Composition Of Resources & GDP</h2>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="vis1" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>The bubble plot shows a <span style="color: darkgreen; font-weight: bold;">possitive correlation between income composition of resources
+            and life expectancy</span>. When the income composition of resources increases, the life expectancy
+          of the continent also increases. From the size of the bubble plot, we can see that the <span style="color: darkgreen; font-weight: bold;">GDP and life 
+            expectancy has a possitive correlation</span> as well. With that, life expectancy will increase
+       when the GDP of the continents increases. In conclusion, we can increase
+      the life exepectancy by increaseing the income composition of resources and GDP by 
+    implementing a combination of strategies including economic diversification, 
+    industrialization, human capital development, and infrastructure improvement.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- scatter-->
+  <div class="pure-u-2-3">
+    <div clas = 'description-middle'>
+      <h2>Effect Of Schooling Years and Adult Mortality</h2>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="vis7" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>The bubble plot shows a <span style="color: darkgreen; font-weight: bold;">possitive correlation between number of years of schooling
+            and life expectancy</span>. When the number of years of schooling increases, the life expectancy
+          of the countinent also increases. From the size of the bubble plot, we can see that the <span style="color: darkgreen; font-weight: bold;">adult mortality and life 
+            expectancy has a negative correlation</span>. With that, life expectancy will increase
+       when the adult mortality of the continents decreases. In conclusion, we can increase
+      the life exepectancy by increaseing the number of years of schooling by improving 
+      educational accessibility and quality by investing in infrastructure, teacher training, 
+      and curriculum development, while also addressing socio-economic barriers and encouraging 
+      community involvement in education.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- parallel coor-->
+  <div class="pure-u-2-3">
+    <div clas = 'description-middle'>
+      <h2>Effect On Immunization Coverage Among 1 Year Olds (%)</h2>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="vis8" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>The parallel coordinate plot illustrates a <span style="color: darkgreen; font-weight: bold;">positive correlation 
+            between life expectancy and the percentage of immunization coverage 
+            among 1 year olds</span>. This relationship is primarily attributed to the 
+            protective benefits of vaccines, which effectively safeguard overall 
+            health by preventing a range of life-threatening diseases and severe 
+            health complications. Higher immunization rates among children not only
+             curtail the transmission of these diseases within the population but 
+             also yield several key factors that underlie the observed increase in 
+             life expectancy.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pure-g">
+    <div class="pure-u-1-1 small-font">
+      <p>This visualisation is created by <a href="https://www.linkedin.com/in/jiun-cheng-yap-40a27a251/" target="_blank">Yap Jiun Cheng</a>. The datasource is <a href="https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who" target=" _blank">Life Expectancy (WHO)</href>.</p>
+    </div>
+  </div>
+  
 
   <script type="text/javascript">
     var specVis1 = "./scatter.json";
     var specVis2 = "./map.json";
     var specVis3 = "./donut.json";
-    var specVis4 = "./line.json";
+    var specVis4 = "./bar.json";
     var specVis5 = "./histogram.json";
+    var specVis6 = "./bump.json";
+    var specVis7 = "./scatter2.json";
+    var specVis8 = "./parallelcoordinate.json";
 
-    vegaEmbed('#vis1', specVis2, { "actions": false });
+    vegaEmbed('#vis2', specVis2, { "actions": false });
     vegaEmbed('#vis3', specVis3, { "actions": false });
     vegaEmbed('#vis4', specVis4, { "actions": false });
     vegaEmbed('#vis5', specVis5, { "actions": false });
-    vegaEmbed('#vis2', specVis1, { "actions": false }).then(function (result) {
+    vegaEmbed('#vis6', specVis6, { "actions": false });
+    vegaEmbed('#vis7', specVis7, { "actions": false });
+    vegaEmbed('#vis8', specVis8, { "actions": false });
+    vegaEmbed('#vis1', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
   </script>

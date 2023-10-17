@@ -1,15 +1,43 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
-  "height": 400,
-  "title": "Life expectancy based on GDP",
+  "width": 480,
+  "height": 350,
+  "title": "Life expectancy based on Income composition of resources",
   "data": {
-    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/Life%20Expectancy%20Data.csv"
+    "url": "https://raw.githubusercontent.com/Jcyap28/FIT3179/main/Data%20Visualisation%202/data/Life_Expectancy_Data.csv"
   },
   "params": [
     {
+      "name": "Continent_selection",
+      "value": null,
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Africa",
+          "Asia",
+          "Asia/Europe",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "labels": [
+          "Show All",
+          "Africa",
+          "Asia",
+          "Asia/Europe",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "name": "Continent Selection: "
+      }
+    },
+    {
       "name": "Year",
-      "value": 2015,
+      "value": 2000,
       "bind": {
         "input": "range",
         "min": 2000,
@@ -19,46 +47,107 @@
       }
     }
   ],
-  "transform": [{"filter": "Year == null || datum.Year == Year"}],
-  "mark": "circle",
+  "transform": [
+    {"filter": "Year == null || datum.Year == Year"},
+    {"filter": "Continent_selection == null || datum.Continent == Continent_selection"}
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 80,
+        "x": 240,
+        "y": 180,
+        "opacity": 0.06,
+        "color": "#e1e1e1d3"
+      },
+      "encoding": {"text": {"field": "Year"}}
+    },
+    
+    {
+      "mark": "circle",
   "encoding": {
     "x": {
+      "field": "Income_composition_of_resources",
+      "type": "quantitative",
+      "title": "Income composition of resources",
+      "axis": {"tickCount": 6,"grid": false},
+      "scale": {"type": "linear", "domain": [0, 1]}
+    },
+    "y": {
+      "field": "Life_expectancy",
+      "type": "quantitative",
+      "title": "Life expectancy",
+      "axis": {"tickCount": 6,"grid": false},
+      "scale": {"type": "linear", "domain": [0, 100]}
+    },
+    "color": {
+      "field": "Continent", 
+      "type": "nominal",
+      "scale":{
+        "domain": [
+          "Africa",
+          "Asia",
+          "Asia/Europe",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+          ],
+          "range": [
+          "#FF5733",
+          "#FFA400",
+          "#A0FF88",
+          "#80A4FF",
+          "#C880FF",
+          "#FF80B4",
+          "#A07A33"
+          ]
+      }
+    },
+    "size": {
       "field": "GDP",
       "type": "quantitative",
       "title": "GDP",
-      "axis": {"tickCount": 7},
-      "scale": {"type": "linear", "domain": [1, 120000]}
-    },
-    "y": {
-      "field": "Life expectancy ",
-      "type": "quantitative",
-      "title": "Life expectancy",
-      "axis": {"tickCount": 6},
-      "scale": {"type": "linear", "domain": [1, 100]}
-    },
-    "color": {"field": "Country", "type": "nominal"},
-    "size": {
-      "field": "Adult Mortality",
-      "type": "quantitative",
-      "title": "Adult Mortality",
       "scale": {
         "type": "threshold",
-        "domain": [400, 500, 600, 700],
-        "range": [100, 300, 500, 600, 800]
+        "domain": [1000, 10000, 100000],
+        "range": [50, 200, 500, 800]
       },
       "legend": {"format": ".1s"}
     },
     "tooltip": [
+      {"field": "Continent", "type": "nominal"},
       {"field": "Country", "type": "nominal"},
-      {"field": "GDP", "type": "quantitative", "format": ","},
       {
-        "field": "Life expectancy ",
+        "field": "Life_expectancy",
         "type": "quantitative",
         "title": "Life expectancy",
         "format": ","
       },
-      {"field": "Adult Mortality", "type": "quantitative", "format": ","}
+      {"field": "Income_composition_of_resources", 
+      "type": "quantitative", 
+      "title": "Income Composition Of Resources",
+      "format": ","},
+      {"field": "GDP", 
+      "type": "quantitative", 
+      "title": "GDP",
+      "format": ".2s"}
     ]
-  },
+  }
+    },
+    {
+      "mark": {"type": "text", "dx": 125, "dy":0, "fontSize": 13},
+      "encoding": {"text": {"value": "Income composition of"}, "color": {"value": "black"}}
+    },
+    {
+      "mark": {"type": "text", "dx": 125, "dy":15, "fontSize": 13},
+      "encoding": {"text": {"value": "resources and Life Expectancy"}, "color": {"value": "black"}}
+    },
+    {
+      "mark": {"type": "text", "dx": 125, "dy": 30, "fontSize": 13},
+      "encoding": {"text": {"value": "have positive correlation"}, "color": {"value": "black"}}
+    }
+  ],
   "config": {}
 }
