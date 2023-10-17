@@ -1,1 +1,93 @@
-hi
+body *{
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+h1 {
+  font-weight: 900;
+  color: #ffffff; /* Change font color to white */
+  font-family: 'Cinzel', serif; /* Set font family to Times New Roman */
+  font-size: 65px; /* Set font size to 65 pixels */
+  margin-top: 10px; /* Add some top margin for spacing */
+  text-align: center; /* Center align the text */
+  background-color: #0e500e; /* Match the font background with the green background */
+  padding: 20px; /* Add some padding for spacing around the text */
+  border-radius: 60px; /* Add rounded corners for the title */
+  box-shadow: 2px 2px 5px #333; /* Add a subtle shadow for depth */
+}
+
+body {
+  background-color: lightgray;
+}
+
+.page {
+  width: 850px;
+  background-color: white;
+  margin: auto;
+  padding: 50px;
+  padding-top: 35px;
+}
+
+.vis-container {
+  width: auto;
+  height: auto;
+  background-color: #ffffff;
+  border-radius: 30px; /* Add a 10px border radius for curved edges */
+  border: 3px solid #12931f;
+  padding: 20px; /* Add 20 pixels of padding inside the container */
+  box-shadow: 2px 2px 5px #333; /* Add a subtle shadow for depth */
+}
+
+/* h2 {
+  font-weight: 900;
+  color: #000000;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px; 
+} */
+h2 {
+  font-weight: 900;
+  margin-top: 40px;
+  color: #363636; /* Change font color to white */
+  font-family: 'Lato', sans-serif; /* Set font family to Times New Roman */
+  font-size: 30px; /* Set font size to 30 pixels (adjust as needed) */
+  text-align: center; /* Center align the text */
+  background-color: #47a94777; /* Match the font background with the green background */
+  padding: 10px 20px; /* Add padding for spacing around the text */
+  border-radius: 15px; /* Add rounded corners for the subtitle */
+  box-shadow: 2px 2px 5px #333; /* Add a subtle shadow for depth */
+}
+
+/* .description h2,
+h1 {
+  margin-top: 10px;
+  
+} */
+
+.description-right {
+  padding-left: 210px;
+}
+
+.description-middle {
+  margin-top: 40px;
+  text-align: center; /* Center align the text */
+}
+.description-middle-2 {
+  margin-top: 10px;
+  text-align: center; /* Center align the text */
+}
+
+.description-left {
+  padding-right: 20px;
+}
+
+
+.pure-g {
+  max-width: 3000px; /* Set a maximum width for the container */
+  margin-top: 5px;
+  
+}
+
+.small-font {
+  font-size: 14px;
+}
