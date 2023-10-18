@@ -84,9 +84,9 @@
         "y": {"type": "quantitative", "field": "norm_val", "axis": null},
         "tooltip": [
           {"type": "quantitative", "field": "Hepatitis_B"},
-          {"type": "quantitative", "field": "Measles"},
+          {"type": "quantitative", "field": "Diphtheria"},
           {"type": "quantitative", "field": "Polio"},
-          {"type": "quantitative", "field": "Diphtheria"}
+          {"type": "quantitative", "field": "Life_expectancy"}
         ]
       }
     },
